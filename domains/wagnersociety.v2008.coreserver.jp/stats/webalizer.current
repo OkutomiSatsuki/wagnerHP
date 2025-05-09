@@ -1,0 +1,425 @@
+# Webalizer V2.23-08 Incremental Data - 04/25/2025 15:27:11
+2025 4 25 15 27 11
+191 12 76 6 12 22 259595 113 62 0
+1 3 28 1 25
+5 0 7282 1 2 1
+3 0 4498 1 2 1
+6 0 7968 3 6 3
+2 0 2772 1 2 1
+1 0 1713 1 1 1
+7 0 10017 3 5 3
+7 0 10522 2 3 1
+3 0 4498 1 2 1
+4 0 6170 2 3 2
+3 0 4498 1 2 1
+3 0 4494 1 2 1
+31 12 24250 13 4 2
+32 0 43211 12 18 9
+5 0 7924 3 4 3
+22 0 32166 12 14 9
+6 0 8996 2 4 2
+5 0 7192 2 4 2
+11 0 17906 3 10 3
+6 0 9225 2 4 2
+1 0 1535 1 1 1
+7 0 11008 3 4 3
+5 0 7924 3 4 3
+7 0 10336 4 6 4
+6 0 8996 1 4 2
+3 0 4494 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 0 16894 8
+2 0 2772 2
+0 0 0 0
+0 0 0 0
+1 0 1713 1
+17 0 26359 11
+0 0 0 0
+4 0 5548 4
+1 0 1713 1
+9 0 13494 6
+12 0 17992 8
+14 0 21721 9
+6 0 8837 3
+8 0 8217 8
+3 0 4374 3
+43 12 42222 12
+10 0 14523 5
+10 0 14011 6
+7 0 10672 5
+1 0 1535 1
+9 0 13461 4
+5 0 6229 1
+2 0 3070 2
+15 0 24238 13
+0
+0
+0
+12
+0
+0
+0
+0
+0
+0
+0
+63
+0
+0
+0
+0
+0
+0
+0
+0
+69
+47
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/letsencrypt_431364fd89063e15f274934427383fd1
+0 1 0 0 0 0
+/.well-known/acme-challenge/letsencrypt_c8c36783abec6c386efedb601120d013
+0 1 0 0 0 0
+/.well-known/acme-challenge/rtnEa6tAlGG6h3NHLuP6wUbdMt6zO3tDjWH_v6nu3es
+0 4 0 2046 0 0
+/.well-known/acme-challenge/letsencrypt_39bebb0d0d544cf6a9e855c97c70e0a8
+0 1 0 0 0 0
+/.well-known/acme-challenge/letsencrypt_7854e3ffd989805dc6d8a99b4e7ea9b3
+0 1 0 0 0 0
+/.well-known/acme-challenge/Pm1h-C2ZMNU_oCdEKX4UI3cC9WdtcwB2nLyeVUHOW3g
+0 4 0 2057 0 0
+# End Of Table - urls
+# -sites- (monthly)
+64.227.38.201
+0 3 0 4494 1 1745255559
+-
+185.247.137.125
+0 1 0 1676 1 1743980838
+-
+64.227.44.238
+0 3 0 4498 1 1744625894
+-
+91.196.152.65
+0 1 0 1033 0 0
+-
+5.135.58.195
+0 2 0 2702 1 1744676009
+-
+104.152.52.58
+0 2 0 3426 2 1744707594
+-
+2406:da18:85:1402:7e0d:b1e7:39ab:45c1
+0 2 1 1609 0 0
+-
+5.135.58.194
+0 2 0 2698 1 1744676363
+-
+68.183.135.160
+0 5 0 7282 1 1744732890
+-
+134.209.21.5
+0 3 0 4494 1 1744731441
+-
+2600:3000:1511:200::84
+0 2 1 1613 0 0
+-
+68.183.33.114
+0 3 0 4498 1 1744828918
+-
+91.196.152.230
+0 1 0 1685 0 0
+-
+2a05:d016:39f:3100:d73a:729b:5a54:887f
+0 1 0 1092 0 0
+-
+159.89.43.77
+0 3 0 4498 1 1744454156
+-
+104.152.52.163
+0 1 0 1713 1 1745306230
+-
+159.203.29.202
+0 3 0 4498 1 1744111890
+-
+64.23.143.80
+0 3 0 4498 1 1743591097
+-
+129.146.24.173
+0 2 0 2772 1 1744681369
+-
+2602:80d:1006::76
+0 2 0 2718 0 0
+-
+103.212.208.106
+0 7 0 11732 1 1745018675
+-
+134.209.37.182
+0 3 0 4494 1 1744557738
+-
+167.99.198.23
+0 3 0 4498 1 1744976827
+-
+45.134.142.225
+0 2 0 3257 1 1745233739
+-
+209.38.68.28
+0 3 0 4498 1 1744796639
+-
+2400:8500:1301:162::18:1
+0 8 4 4528 0 0
+-
+134.122.32.235
+0 3 0 4494 1 1744386606
+-
+91.196.152.59
+0 1 0 1676 1 1744676416
+-
+138.197.153.169
+0 3 0 4494 1 1744902958
+-
+185.247.137.204
+0 2 0 2702 1 1745023581
+-
+104.152.52.70
+0 1 0 1713 1 1743826108
+-
+198.235.24.42
+0 1 0 1535 1 1745184074
+-
+91.196.152.153
+0 1 0 1685 0 0
+-
+44.193.11.208
+0 1 0 1063 1 1744567150
+-
+3.238.104.250
+0 2 0 2772 1 1745452459
+-
+161.35.151.9
+0 3 0 4498 1 1744279020
+-
+2600:3000:1511:200::85
+0 2 1 1609 0 0
+-
+44.203.54.222
+0 2 0 2484 1 1744549783
+-
+141.98.255.144
+0 2 0 3426 2 1744617545
+-
+2602:80d:1000::11
+0 1 0 1685 0 0
+-
+2a05:9403::5f9
+0 4 0 362 2 1744549573
+-
+128.14.188.216
+0 13 0 20161 1 1744523091
+-
+159.65.8.65
+0 4 0 4694 0 0
+-
+91.196.152.68
+0 1 0 1676 1 1744676357
+-
+52.54.71.95
+0 2 0 2122 1 1743666242
+-
+135.148.100.196
+0 1 0 1535 1 1745436084
+-
+2600:1f14:804:fd01:d200:3d13:bfc3:90dd
+0 2 1 1598 0 0
+-
+194.110.115.12
+0 2 0 3257 1 1745234252
+-
+104.152.52.105
+0 1 0 1713 1 1745301140
+-
+2600:1f16:269:da00:5874:8adb:2933:e64b
+0 2 1 1602 0 0
+-
+138.197.177.118
+0 5 0 7282 1 1743537784
+-
+2600:1f16:269:da02:28d0:2ce3:6091:2970
+0 2 1 1609 0 0
+-
+199.45.155.71
+0 1 0 1713 1 1744567624
+-
+91.196.152.63
+0 1 0 1037 0 0
+-
+2a05:d016:39f:3102:f1fe:4562:32af:fbe1
+0 1 0 1096 0 0
+-
+54.246.47.192
+0 1 0 1676 1 1744210109
+-
+104.131.171.67
+0 6 0 8996 2 1745494672
+-
+159.203.130.112
+0 3 0 4494 1 1744229499
+-
+2001:67c:6ec:2913:145:220:91:19
+0 4 0 5548 2 1743965957
+-
+2406:da18:85:1400:59aa:468b:ddc4:a298
+0 2 1 1613 0 0
+-
+185.247.137.48
+0 2 0 2698 1 1744901072
+-
+46.101.219.158
+0 3 0 4498 1 1745313408
+-
+44.220.181.56
+0 1 0 1713 1 1744636719
+-
+2600:1f14:804:fd01:6e71:e387:504c:93a5
+0 2 1 1602 0 0
+-
+185.247.137.49
+0 1 0 1676 1 1744992489
+-
+51.81.46.212
+0 1 0 1535 1 1745451065
+-
+2602:80d:1004::17
+0 1 0 1685 0 0
+-
+217.198.191.213
+0 4 0 6523 1 1745104749
+-
+128.199.12.230
+0 3 0 4494 1 1745429074
+-
+193.164.4.226
+0 4 0 5565 1 1743955800
+-
+3.84.119.191
+0 1 0 1242 1 1744567150
+-
+128.14.188.215
+0 6 0 8837 1 1744030253
+-
+138.197.132.82
+0 3 0 4494 1 1745594827
+-
+18.228.117.208
+0 2 0 3070 1 1743719079
+-
+44.200.39.86
+0 1 0 1063 1 1744549783
+-
+47.82.10.99
+0 2 0 2776 1 1743687198
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+138.197.132.82
+0 3 0 4494 1 1745594827
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://wagnersociety.v2008.coreserver.jp/
+0 2
+http://wagnersociety.v2008.coreserver.jp/.well-known/acme-challenge/Pm1h-C2ZMNU_oCdEKX4UI3cC9WdtcwB2nLyeVUHOW3g
+0 4
+http://wagnersociety.v2008.coreserver.jp
+0 3
+http://wagnersociety.v2008.coreserver.jp/wp-admin/setup-config.php
+0 1
+- (Direct Request)
+0 150
+http://www.wagnersociety.v2008.coreserver.jp/.well-known/acme-challenge/rtnEa6tAlGG6h3NHLuP6wUbdMt6zO3tDjWH_v6nu3es
+0 4
+https://wagnersociety.v2008.coreserver.jp/
+0 10
+http://wagnersociety.v2008.coreserver.jp/favicon.ico
+0 1
+http://www.wagnersociety.v2008.coreserver.jp
+0 3
+http://wagnersociety.v2008.coreserver.jp/wordpress/wp-admin/setup-config.php
+0 1
+https://www.wagnersociety.v2008.coreserver.jp/
+0 11
+http://www.wagnersociety.v2008.coreserver.jp/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 10
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 6
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 18
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 7
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 5
+python-requests/2.23.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.182
+0 2
+Go-http-client/1.1
+0 2
+Go-http-client/2.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.0 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 1
+Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+0 4
+python-requests/2.32.3
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 4
+curl/7.61.1
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 20
+Mozilla/5.0 (compatible)
+0 67
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

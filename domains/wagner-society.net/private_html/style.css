@@ -1,0 +1,338 @@
+@charset "shift_jis";
+
+
+
+
+/*-----------------------------------------------------------------------*/
+body {
+	font-family: "メイリオ", Meiryo, "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro";
+	font-size: 80%;
+	line-height: 2;
+	color: #424E60;
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	background-image: url(images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+/*トップページだけ、背景壁紙画像を変える為。*/
+body#top {
+	background-image: url(images/bgtop.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+/*「演奏会記録」のページだけ、文字サイズを小さく。*/
+#smaller {
+	font-size: 70%;
+}
+
+h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form{
+	margin: 0px;
+	padding: 0px;
+}
+ul {
+	list-style-type: none;
+}
+img {
+	border: none;
+}
+input,textarea,select {
+	font-size: 1em;
+}
+form {
+	margin: 0px;
+}
+a#gray {
+	color: #424E60;
+	text-decoration: none;
+}
+a:hover {
+	color: #772850;
+	text-decoration: none;
+}
+table {
+	border-collapse:collapse;
+	font-size: 100%;
+	border-spacing: 0;
+}
+
+
+
+/*コンテナー（HP全体を囲むブロック）
+---------------------------------------------------------------------------*/
+#container {
+	text-align: left;
+	width: 900px;	/*HP全体の横幅*/
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+/*ヘッダー（ロゴや電話番号画像が入っているブロック）
+---------------------------------------------------------------------------*/
+#header {
+	height: 80px;
+	width: 900px;
+	position: relative;
+}
+#header #tel {
+	position: absolute;
+	top: 50px;
+	right: 30px;
+	font-size: 80%;
+	
+}
+#header #logo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+a#white {
+	color: #FFFFFF;
+}
+
+
+
+/*メインメニュー（上部に横並びの画像メニュー）
+---------------------------------------------------------------------------*/
+ul#menu img {
+	vertical-align: bottom;
+}
+ul#menu li {
+	float: left;
+}
+
+
+
+/*FLASH梱包ボックス
+---------------------------------------------------------------------------*/
+#fla {
+	background-color: #000000;
+	height: 400px;
+}
+#fla p {
+	color: #FFFFFF;
+	text-align: center;
+}
+
+
+
+/*コンテンツ（左右のブロックを囲むボックス）
+---------------------------------------------------------------------------*/
+#contents {
+	clear: left;
+}
+
+
+
+/*メインコンテンツ（左側ボックス）
+---------------------------------------------------------------------------*/
+#main {
+	float: left;	/*ボックスを左側に配置。*/
+	width: 540px;	/*ボックスの幅*/
+	padding-top: 20px;
+        padding-left: 10px;
+}
+#main p {
+	padding: 0.5em 10px 1em;
+}
+#main h2.h2bg {
+        width: 520px;
+	height: 30px;
+	line-height: 30px;
+	color: #FFFFFF;	/*h2タグの文字色*/
+	font-size: 100%;
+	background-image: url(images/midashi_bg.gif);	/*h2タグの背景画像*/
+	background-repeat: no-repeat;
+	padding-left: 20px;	/*文字の左側に少し余白*/
+	overflow: hidden;	/*背景画像から飛び出た文字を非表示にする*/
+	background-color: #272E39;
+}
+
+
+
+/*サイドコンテンツ（右側ボックス）
+---------------------------------------------------------------------------*/
+#side {
+	float: right;	/*ボックスを右側に配置。*/
+	width: 330px;	/*ボックスの幅*/
+	padding-top: 20px;
+}
+#side p {
+	padding: 0.5em 5px 1em;
+}
+#side .box {
+	border: 1px solid #bfbfbf;/*右側ボックスの各ボックスを囲む線色。*/
+	margin-bottom: 1em;
+	text-align: center;
+}
+#side h3 {
+	font-size: 100%;
+	color: #424E60;	/*h3タグの文字色*/
+	text-align: center;	/*文字をセンタリング*/
+	border-bottom: 1px solid #bfbfbf;	/*h3タグ下に直線を追加*/
+	padding-top: 1em;
+	padding-bottom: 1em;
+	background-image: url(images/h3bg.gif);	/*h3の背景画像*/
+	background-repeat: repeat-x;	/*背景画像を横軸にリピート*/
+	background-position: center;	/*背景画像を上下中央に配置*/
+}
+#side .sidemenu a {
+	text-decoration: none;	/*サイドメニューのリンクの下線を削除*/
+	width: 326px;
+	display: block;
+	background-color: #272E39;
+	background-image: url(images/sidemenu_bg.gif);	/*サイドメニューの背景画像*/
+	background-repeat: repeat-y;
+	background-position: center;
+	text-align: center;	/*メニューテキストをセンタリング*/
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	color: #FFFFFF;	/*メニューの文字色*/
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+#side .sidemenu a:hover {
+	background-image: url(images/sidemenu_bg_over.gif);	/*カーソルオーバー時の背景画像*/
+}
+
+
+
+/*フッター（コピーライトなど入っている一番下のボックス）
+---------------------------------------------------------------------------*/
+#footer {
+	text-align: center;
+	clear: both;
+	width: 100%;
+        height: 0px;
+}
+
+
+
+/*メインコンテンツ内の「Information」部分
+---------------------------------------------------------------------------*/
+#main dl.new {
+	width: 530px;			/*What's Newボックスの幅*/
+	height: 200px;		/*What's Newボックスの高さ*/
+	overflow: auto;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main dl.new dt {
+	font-weight: bold;	/*日付の色を太字にする*/
+}
+
+#main dl.new dd {
+	border-bottom: 1px solid #bfbfbf;	/*日付ごとの下線*/
+}
+
+
+
+/*テーブル
+---------------------------------------------------------------------------*/
+.ta1 {
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	
+}
+.ta1, .ta1 td, .ta1 th{
+	border: 1px solid #272E39;
+}
+.ta1 td, .ta1 th{
+	padding: 10px;
+	text-align: center;
+}
+.ta1 th{
+	background-color: #fafafa;	/*左側thタグの背景色*/
+	width: 150px;	/*左側thタグの幅*/
+	text-align: center;
+}
+.ta1 th.tamidashi{
+	width: auto;
+	text-align: center;
+	background-color: #485569;	/*テーブルの見出し部分の背景色（concerts.htmlで使用しています）*/
+	color: #FFFFFF;	/*文字色*/
+}
+.tamidashi{
+	width: auto;
+	text-align: center;
+	background-color: #485569;	/*テーブルの見出し部分の背景色（concerts.htmlで使用しています）*/
+	color: #FFFFFF;	/*文字色*/
+}
+
+
+/*サイトマップ (#mainの中に表示)
+---------------------------------------------------------------------------*/
+#sitemap {
+	width: 240px;
+	float: left;
+	padding-left: 20px;
+	
+}
+#sitemap .dir1 {
+	color: #FFFFFF;
+	font-size: 100%;
+	padding-left: 10px;
+	width: 240px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #485569;
+}
+#sitemap .dir2 {
+	font-size: 100%;
+	padding-left: 20px;
+	padding-top: 10px;
+	width: 300px;
+	height: 10px;
+	line-height: 10px;
+}
+
+
+
+/*細々
+---------------------------------------------------------------------------*/
+.color1 {
+	color: #772850;
+}
+.look {
+	background-color: #f5f5f5;
+}
+.mb1em {
+	margin-bottom: 1em;
+}
+
+.pbfb {
+  margin-left : 1em;
+ font-size : 0.9em;
+ font-weight : normal;
+}
+
+.fblnk {
+  margin-left : 3em;
+  font-size : 0.9em;
+  font-weight : normal;
+}
+.fblnk a:hover {
+  color : #cccccc;
+}
+.fblnk a:visited {
+  color : #ffffff;
+}
+.fblnk a:link {
+  color : #ffffff;
+}
+
+/*セルの幅を文字列の長さに合わせるためのcss*/
+.thAdjust{
+    width:1px;
+    white-space:nowrap;
+}

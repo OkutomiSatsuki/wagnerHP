@@ -1,0 +1,1443 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/wagnersociety/domains/wagner-society.net/awstats/recordings/.data/awstats.recordings.wagner-society.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2175                
+POS_TIME 2864                
+POS_VISITOR 26582               
+POS_DAY 65346               
+POS_DOMAIN 3878                
+POS_LOGIN 4115                
+POS_ROBOT 4270                
+POS_WORMS 4831                
+POS_EMAILSENDER 4962                
+POS_EMAILRECEIVER 5105                
+POS_SESSION 66214               
+POS_FILESIZE 67410               
+POS_SIDER 66427               
+POS_FILETYPES 5240                
+POS_DOWNLOADS 5517                
+POS_OS 18463               
+POS_BROWSER 18756               
+POS_SCREENSIZE 19854               
+POS_UNKNOWNREFERER 19928               
+POS_UNKNOWNREFERERBROWSER 20140               
+POS_ORIGIN 20244               
+POS_SEREFERRALS 20386               
+POS_PAGEREFS 20590               
+POS_SEARCHWORDS 20755               
+POS_KEYWORDS 20948               
+POS_MISC 2526                
+POS_ERRORS 21050               
+POS_CLUSTER 3971                
+POS_SIDER_404 21157               
+POS_SIDER_400 26191               
+POS_SIDER_403 26273               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601000122 9691 2625426 13092660852851
+FirstTime 20240501002630
+LastTime 20240531234857
+LastUpdate 20240602041454 9691 0 9690 0 0
+TotalVisits 779                 
+TotalUnique 598                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 713                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 677 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 133 793 2693444105 356 435 122922692
+1 102 621 3034203189 335 393 143123159
+2 65 324 1188424516 332 381 140369449
+3 30 107 480016154 326 337 76161922
+4 10 15 277026 342 348 181787
+5 0 0 0 344 347 77574180
+6 2 14 80517746 327 334 184556795
+7 5 47 226573287 330 344 207425
+8 54 541 1441050929 336 379 71193730
+9 87 469 1078224612 339 414 144218881
+10 85 1268 2267378979 345 460 2192342
+11 99 1093 2494392528 339 415 58391583
+12 87 659 2728620536 337 444 57355384
+13 46 770 2740956044 343 394 88554434
+14 45 670 2500563755 352 391 377144
+15 56 605 2032988195 364 435 57812279
+16 125 1168 3728762824 344 465 15762573
+17 44 921 3218021188 349 394 35211175
+18 51 571 1905612035 335 375 208792113
+19 84 904 3019914824 346 419 50245353
+20 67 466 1443589703 374 449 39748135
+21 100 1207 2815013396 350 446 89663010
+22 195 1139 2500030405 362 518 824414
+23 226 1330 3284431558 397 576 108848647
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1798 15702 46903007534
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+UptimeRobot/ 7769 3787137 20240531235926 0
+facebookexternalhit/ 319 1750832221 20240531230253 0
+core 23 2390770 20240530022752 0
+CFNetwork 11 1529112 20240530022752 0
+twitterbot 10 768558 20240531144257 0
+no_user_agent 6 80427 20240527085209 0
+curl 4 1148 20240508221135 0
+trendiction 2 10099008 20240516003323 0
+Applebot/ 2 64950 20240517061555 0
+custo 1 17108 20240521194754 0
+Slackbot\-LinkExpanding 1 20710 20240529220958 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+wav 1059 3948966567 0 0
+ico 11 121164 0 0
+mp3 9786 42762522704 0 0
+jpg 562 50817710 0 0
+html 627 1871891 0 0
+php 1161 2975471 0 0
+Unknown 10 3324 0 0
+m4a 18 53843927 0 0
+png 616 80675293 0 0
+css 1852 1209483 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 249
+/Recordings2024/240517%20WB_SKM_SIB-mov1-1.mp3 58 0 33177758
+/Recordings2024/20240522_TND_Nowway_1.mp3 45 0 93747179
+/Recordings2024/240524%20FO_SIB-mov3-1.mp3 43 0 69998039
+/Recordings2024/20240522_TND_Nowway_2.mp3 43 0 163091448
+/Recordings2024/20240522_TND_Messina_1(2).mp3 43 0 60260761
+/Recordings2024/240402%20CO_NOM.mp3 43 0 116583935
+/Recordings2024/20240522_TND_Nowway_3.mp3 42 0 83201031
+/Recordings2024/240517%20WB_SKM_SIB-mov1-2.mp3 41 0 40123210
+/Recordings2024/240524%20FO_SIB-mov4-1.mp3 39 0 47706103
+/Recordings2024/240517%20WB_SKM_SIB-mov3,4.mp3 36 0 65522654
+/Recordings2024/240524%20FO_SIB-mov4-2.mp3 34 0 64732743
+/Recordings2024/20240522_TND_Nowway_5.mp3 33 0 60446469
+/Recordings2024/20240522_TND_Nowway_4.mp3 31 0 60686271
+/Recordings2024/240517%20WB_SKM_SIB-mov4.mp3 28 0 11907638
+/Recordings2024/240517%20WB_SKM_SIB-mov2-1.mp3 27 0 27498759
+/Recordings2024/240517%20WB_SKM_SIB-mov2-2.mp3 26 0 19956010
+/Recordings2024/20240522_TND_Messina_3.mp3 24 0 34486971
+/Recordings2024/240524%20FO_SIB-mov2-1.mp3 20 0 68248293
+/Recordings2024/20240522_TND_Messina_5.mp3 18 0 61800678
+/Recordings2024/240513%20TOP_SIB-mov3.mp3 17 0 20703804
+/Recordings2024/240524%20FO_SIB-mov3-2.mp3 17 0 72814299
+/Recordings2024/240517%20WB_SKM_SIB-mov3.mp3 16 0 16083434
+/Recordings2024/240513%20TOP_SIB-mov1-1.mp3 16 0 22684930
+/Recordings2024/20240510_Messina_Wind_2.mp3 16 0 41928222
+/Recordings2024/20240510_Norway_wind_1.mp3 16 0 63801186
+/Recordings2024/20240508_SKR_ME_1.mp3 15 0 9872494
+/Recordings2024/20240508_SKR_NO_1.mp3 14 0 20562305
+/Recordings2024/20240510_Norway_wind_2.mp3 14 0 92975041
+/Recordings2024/20240529_TZW_SB_5.mp3 14 0 20495505
+/Recordings2024/240524%20FO_SIB-mov2-2.mp3 14 0 18786875
+/Recordings2019/0622%20honban%20rach.mp3 14 0 5463278
+/Recordings2024/20240522_TND_Messina_2.mp3 14 0 14700083
+/Recordings2018/0824%20JYO%20toushi2.mp3 13 0 13493000
+/Recordings2024/20240508_SKR_NO_3.mp3 13 0 88609142
+/Recordings2024/20240522_TND_Messina_4.mp3 13 0 14898332
+/Recordings2018/0824%20JYO%20toushi1.mp3 13 0 7729000
+/Recordings2023/20240315_budapest_encore.mp3 12 0 6493636
+/Recordings2024/20240508_SKR_NO_5.mp3 12 0 13882502
+/Recordings2018/0303m1.mp3 12 0 20291110
+/music/2013/kaigai/0310OkochiBartokHallMahler7.mp3 12 0 47738979
+/Recordings2023/20240315_budapest_stravinsky.mp3 11 0 12546706
+/Recordings2023/20231204_SNP_1.mp3 10 0 15821232
+/Recordings2024/240422%20FO_SIB_TH_1mov.mp3 10 0 30477601
+/Recordings2024/20240517_URB_ME_Wood5.mp3 10 0 21311763
+/Recordings2024/20240517_URB_NO_Wood1.mp3 10 0 31812529
+/Recordings2024/240422%20FO_SIB_TH_34mov.mp3 10 0 16601589
+/Recordings2024/20240517_URB_NO_Wood2.mp3 9 0 10541965
+/Recordings2024/20240506_TZW_ME_2.mp3 9 0 7093545
+/Recordings2024/20240506_TZW_ME_1.mp3 9 0 60749959
+/Recordings2023/20231112_MUZA_TCH_3.4.mp3 9 0 4642492
+/Recordings2024/20240508_SKR_ME_3.mp3 8 0 6540754
+/Recordings2022/Wagner238_Osaka_03.wav 8 0 11699821
+/Recordings2023/20230804_TCBN_8.mp3 8 0 4534011
+/Recordings2024/20240510_Norway_wind_3.mp3 8 0 29293099
+/Recordings2022/Wagner238_Osaka_03.mp3 7 0 14608804
+/Recordings2024/20240328_UNI_3.mp3 7 0 113789659
+/Recordings2024/20240529_TZW_SB_6(2).mp3 7 0 6762631
+/Recordings2019/0622%20honban%20tchaiko.mp3 7 0 61593368
+/Recordings2024/20240508_SKR_NO_2.mp3 7 0 16877535
+/Recordings2024/20240529_TZW_SB_6.mp3 7 0 56944304
+/Recordings2024/20240517_URB_ME_Wood2.mp3 7 0 20175152
+/Recordings2024/240513%20TOP_SIB-mov2-2.mp3 7 0 4791929
+/Recordings2018/0303m4.mp3 7 0 113373194
+/Recordings2024/20240529_TZW_SB_1.mp3 7 0 8234230
+/music/2016/0228hikare4.mp3 6 0 1965000
+/Recordings2023/20240315_budapest_wagner.mp3 6 0 2995386
+/Recordings2024/240506%20WB_SIB_mov1-1.mp3 6 0 25286960
+/Recordings2024/240506%20WB_SIB_mov2-3.mp3 6 0 22116535
+/Recordings2023/20230804_TCBN_3.mp3 6 0 4228464
+/Recordings2024/20240330_UNI_2.mp3 6 0 80690775
+/Recordings2024/20240330_UNI_1.mp3 6 0 12187608
+/Recordings2023/20231112_MUZA_MHL.mp3 6 0 5747650
+/Recordings2024/20240508_SKR_ME_2.mp3 6 0 8862266
+/Recordings2024/20240517_URB_ME_Wood1.mp3 6 0 12704112
+/Recordings2022/20230213_D2.mp3 6 0 56276743
+/Recordings2018/0824%20JYO%20kaeshi1.mp3 6 0 4323000
+/Recordings2024/20240510_Messina_Wind_1.mp3 5 0 9450133
+/Recordings2024/240513%20TOP_SIB-mov1-2.mp3 5 0 4331155
+/Recordings2021/20220223_HONBAN_Rachmaninov_SymphonyNo.2_4.mp3 5 0 3885839
+/Recordings2024/20240529_TZW_SB_4.mp3 5 0 3550630
+/Recordings2024/20240510_Norway_wind_4.mp3 5 0 8969096
+/Recordings2024/20240529_TZW_SB_7.mp3 5 0 7351524
+/Recordings2024/20240517_URB_NO_Wood5.mp3 5 0 8674447
+/Recordings2022/20230213_D3.mp3 4 0 62608346
+/Recordings2024/20240501_TZW_SB_1.mp3 4 0 4023517
+/Recordings2018/0211IMR1-1.mp3 4 0 16127460
+/Recordings2024/20240330_UNI_6.mp3 4 0 2489000
+/Recordings2024/20240517_URB_NO_Wood12.mp3 4 0 8458697
+/Recordings2022/20221021_HONNBAN_BRU.wav 4 0 8285822
+/Recordings2023/20231204_1.mp3 4 0 12183072
+/Recordings2022/20230211_Mahler_SymphonyNo1.mp3 4 0 3173390
+/Recordings2023/Wagner239_BEETHOVEN.wav 4 0 6815456
+/Recordings2024/20240510_Messina_Wind_4.mp3 4 0 77123111
+/Recordings2024/20240508_SKR_NO_4.mp3 4 0 4289132
+/Recordings2024/20240517_URB_NO_Wood6.mp3 4 0 9688596
+/Recordings2024/20240510_Messina_Wind_3.mp3 4 0 56773105
+/Recordings2023/20230902_KWMT_WGN.mp3 4 0 8371777
+/Recordings2018/08311.mp3 3 0 1179000
+/Recordings2024/240506%20WB_SIB_mov2-1.mp3 3 0 587445
+/Recordings2024/240422%20FO_SIB_TH_2mov.mp3 3 0 1312642
+/Recordings2024/20240330_UNI_5.mp3 3 0 6291456
+/Recordings2021/20210703_HONBAN_WWV96.m4a 3 0 9711229
+/Recordings2023/20231129_SNP_1.mp3 3 0 3013000
+/Recordings2024/20240417_SKR_SB_1.mp3 3 0 143766765
+/Recordings2023/20240302_KWMT.mp3 3 0 1965000
+/Recordings2023/20240315_budapest_borodin.mp3 3 0 433236
+/Recordings2023/20231112_MUZA_TCH_2.mp3 3 0 10936920
+/Recordings2024/240422%20FO_SIB_1mov-1.mp3 3 0 6291456
+/Recordings2024/20240328_UNI_1.mp3 3 0 6291456
+/Recordings2019/0324-003.mp3 3 0 5503224
+/Recordings2021/20210626_TREFO_ALD42.mp3 3 0 459867
+/Recordings2024/20240517_URB_NO_Wood4.mp3 3 0 4927766
+/Recordings2018/0824%20HBS%20toushi1.mp3 3 0 1179000
+/Recordings2024/20240328_UNI_2.mp3 3 0 1572000
+/Recordings2024/20240529_TZW_SB_2.mp3 3 0 58694418
+/Recordings2021/20210703_HONBAN_ALD2.m4a 3 0 15361518
+/Recordings2018/0303mahler1.mp3 3 0 1951521
+/Recordings2022/20220523_DEB_1.mp3 3 0 6291456
+/Recordings2021/20210626_TREFO_ALD41.mp3 3 0 2529732
+/Recordings2024/20240415_SKR_SB-5.mp3 3 0 184326567
+/Recordings2018/083014.mp3 3 0 1080750
+/music/2015/0909Bunaien6.mp3 3 0 281862
+/Recordings2023/20231129_TGKJGK_1.mp3 3 0 2096665
+/music/2015/0224HonbannMara1-4.mp3 3 0 65068407
+/music/2016/1016Ducas.mp3 3 0 51685047
+/music/2015/0219OKTMahler1.mp3 3 0 56582793
+/Recordings2019/0622%20gene%20tchaiko%201.mp3 3 0 0
+/Recordings2024/20240501_TZW_SB_7.mp3 3 0 108009315
+/Recordings2022/20230211_Mahler_SymphonyNo1.wav 3 0 295398
+/Recordings2024/240506%20WB_SIB_mov3,4-2.mp3 3 0 473007
+/Recordings2024/20240517_URB_NO_Wood10.mp3 3 0 11397216
+/music/2016/1029WadaFOjukuka.mp3 3 0 4683891
+/Recordings2022/20220523_DEB_3.mp3 3 0 62310193
+/Recordings2023/20240302_KWMT_FRBD_7.mp3 3 0 346368
+/Recordings2024/20240529_TZW_SB_3.mp3 3 0 3127697
+/Recordings2024/20240517_URB_NO_Wood3.mp3 3 0 9172384
+/Recordings2019/0622%20gene%20tchaiko%202.mp3 3 0 0
+/music/2016/0228toosi.mp3 2 0 1703000
+/Recordings2024/240513%20TOP_SIB-mov2-3.mp3 2 0 3538152
+/Recordings2024/20240517_URB_NO_Wood14.mp3 2 0 8924698
+/Recordings2022/20230206_D2.mp3 2 0 53020845
+/Recordings2024/20240517_URB_NO_Wood8.mp3 2 0 2809675
+/Recordings2024/20240510_Messina_Wind_5.mp3 2 0 1381734
+/Recordings2022/20230109_MHL_KWMT_1_1.mp3 2 0 3835594
+/Recordings2024/20240328_WG_2.mp3 2 0 70502053
+/Recordings2024/20240501_TZW_SB_3.mp3 2 0 63132803
+/Recordings2022/20230206_D4.mp3 2 0 3145152
+/Recordings2024/20240517_URB_ME_Wood11.mp3 2 0 5984026
+/Recordings2022/20220523_DEB_2.mp3 2 0 4194304
+/Recordings2024/20240517_URB_NO_Wood9.mp3 2 0 6737486
+/Recordings2024/20240517_URB_NO_Wood13.mp3 2 0 5436697
+/Recordings2023/20230621_ODN_BTV_1.mp3 2 0 4194304
+/Recordings2023/20231112_MUZA_RJ.mp3 2 0 1139743
+/Recordings2024/240506%20WB_SIB_mov1-2.mp3 2 0 1596706
+/Recordings2024/240513%20TOP_SIB-mov2-1.mp3 2 0 4194304
+/Recordings2024/240506%20WB_SIB_mov3,4-1.mp3 2 0 1438923
+/Recordings2023/20230901_9.mp3 2 0 5967414
+/Recordings2024/20240517_URB_ME_Wood12.mp3 2 0 5193334
+/Recordings2018/0218top1-1.mp3 2 0 474945
+/Recordings2024/20240328_FIN_2.mp3 2 0 249041
+/Recordings2024/20240517_URB_ME_Wood7.mp3 2 0 6944800
+/Recordings2023/20231112_MUZA_TCH_1.mp3 2 0 157814
+/Recordings2024/20240517_URB_NO_Wood7.mp3 2 0 7040055
+/Recordings2021/20210804_TYHR_ZAUBER_FO_2.mp3 2 0 7979042
+/Recordings2024/20240328_WG_3.mp3 2 0 89437928
+/Recordings2024/20240506_TZW_ME_3.mp3 1 0 39802352
+/music/2016/1016Bruckner1.mp3 1 0 17768778
+/Recordings2023/20231108_RJ_AKYM_4.mp3 1 0 2096688
+/Recordings2023/20230816_TZW_WGNR_1.mp3 1 0 1310000
+/Recordings2021/20210804_TYHR_ZAUBER_FO_1.mp3 1 0 786000
+/Recordings2022/20230206_D1.mp3 1 0 2097152
+/music/2016/1012TozawaBruckner4-2-2.mp3 1 0 533509
+/Recordings2023/20230804_TCBN_2.mp3 1 0 1965000
+/Recordings2022/20220619_MEN.mp3 1 0 106905
+/Recordings2023/20230322_MIST_1.mp3 1 0 3406072
+/music/2015/1120ChyuukiHachaturian2.mp3 1 0 15704816
+/Recordings2023/20240219_TZW_STRV_6.mp3 1 0 463139
+/music/2013/kaigai/0310OkochiBartokHallEncore.mp3 1 0 1703072
+/Recordings2024/20240517_URB_NO_Wood11.mp3 1 0 5109072
+/Recordings2024/20240517_URB_ME_Wood3.mp3 1 0 1102830
+/Recordings2018/0328OKTFOcarmen5%20p3.mp3 1 0 379121
+/Recordings2018/0328OKTFOcarmen5p1.mp3 1 0 7799426
+/Recordings2023/20231204_SB_1.mp3 1 0 64576
+/Recordings2023/20231111_RJ_AKYM_5.mp3 1 0 651387
+/Recordings2023/230925_tch4_1_i_ma.mp3 1 0 112153
+/Recordings2023/20231108_RJ_AKYM_3.mp3 1 0 130084
+/Recordings2020/20201214_OKTFO_MozartFL.mp3 1 0 131000
+/Recordings2023/20231006_SKR_TCH_4mvt_3.mp3 1 0 520753
+/Recordings2024/20240517_URB_ME_Wood9.mp3 1 0 147917
+/Recordings2023/20240302_KWMT_FRBD_6.mp3 1 0 4454072
+/Recordings2023/20240222_KWMT_FB_9.mp3 1 0 7074360
+/Recordings2024/20240417_SKR_SB_3.mp3 1 0 70802385
+/music/2015/0224HonbannMeister.mp3 1 0 11829812
+/Recordings2018/0303wagner.mp3 1 0 4585072
+/Recordings2023/20230803_SAN_TB.mp3 1 0 101603
+/music/2016/0612FujiokaElgar1-4.mp3 1 0 15658003
+/music/2015/0219OKTMahler3.mp3 1 0 11535151
+/Recordings2024/20240506_TZW_ME_4.mp3 1 0 57402613
+/Recordings2024/240506%20WB_SIB_mov2-2.mp3 1 0 3930072
+/Recordings2022/20221021_HONBAN2_BRU2.mp3 1 0 2097152
+/Recordings2024/20240415_SKR_SB-7.mp3 1 0 34163038
+/music/2016/1104-115daiku34.mp3 1 0 262000
+/Recordings2018/0817FOtotoro1.mp3 1 0 601021
+/Recordings2023/20231111_RJ_AKYM_4.mp3 1 0 945825
+/music/2013/kaigai/0302SeikyoHerklessaalBanitzaGroove.mp3 1 0 10523739
+/music/2016/0310Mahler9.mp3 1 0 2110467
+/Recordings2022/20230206_D3.mp3 1 0 2097152
+/Recordings2021/20211027_TYHR_1-4.mp3 1 0 131000
+/Recordings2018/0303m3.mp3 1 0 2489072
+/Recordings2024/20240506_TZW_NO_1.mp3 1 0 238572
+/Recordings2024/20240517_URB_ME_Wood10.mp3 1 0 218084
+/Recordings2024/20240517_URB_ME_Wood6.mp3 1 0 5225929
+/Recordings2024/20240501_TZW_SB_5.mp3 1 0 60002321
+/Recordings2023/20231204_TGKJGK_1.mp3 1 0 2096649
+/Recordings2023/20230801_KBT_PHILIA_6.mp3 1 0 131000
+/Recordings2019/0215%20kyoto%20meister.mp3 1 0 131000
+/Recordings2023/20230804_TCBN_5.mp3 1 0 261009
+/Recordings2023/20230915_TZW_11.mp3 1 0 2097152
+/music/2016/0612FujiokaInterwiew.MP3 1 0 12526100
+/Recordings2023/20230816_KBT_TCH_1mvt_6.mp3 1 0 393000
+/Recordings2023/20230801_KBT_PHILIA_3.mp3 1 0 131000
+/Recordings2024/20240509_Norway_wind_1.wav 1 0 2097152
+/music/2016/1104-115daiku1.mp3 1 0 15292707
+/Recordings2022/20230109_MHL_KWMT_2_1.mp3 1 0 1088000
+/music/2016/1016Hindemith.mp3 1 0 34805832
+/Recordings2019/0324-002.mp3 1 0 2096000
+/Recordings2018/0303m2.mp3 1 0 2620072
+/Recordings2022/20221021_HONBAN2_WAG.mp3 1 0 3255570
+/Recordings2023/20240219_TZW_STRV_5.mp3 1 0 1741288
+/Recordings2023/20231204_RDTK_1.mp3 1 0 372205
+/Recordings2023/20230804_TCBN_4.mp3 1 0 1310000
+/music/2016/0316NozueGSNemureru1.mp3 1 0 979098
+/Recordings2019/0622%20honban%20beethoven.mp3 1 0 982092
+/Recordings2024/20240517_URB_ME_Wood8.mp3 1 0 101148
+/Recordings2023/20230621_ODN_BTV_2.mp3 1 0 1834000
+/Recordings2023/20240105_KBT_STRVNSKY_5.mp3 1 0 786000
+/Recordings2021/20220223_HONBAN_Rachmaninov_SymphonyNo.2_2.mp3 1 0 366530
+/Recordings2023/20240219_TZW_STRV_1.mp3 1 0 451063
+/Recordings2023/20230830_KWMT_TKVY_9.mp3 1 0 4323072
+/Recordings2019/0207OKTJOINT-002.mp3 1 0 1586894
+/Recordings2018/0711tachibanajura.mp3 1 0 130111
+/Recordings2024/20240328_WG_1.mp3 1 0 1179000
+/Recordings2023/20231020_KBT_ROMEO_3.mp3 1 0 150601
+/music/2016/1104-115wakakiti.mp3 1 0 2284981
+/Recordings2023/20230922_SKIR_ROMEO_2.mp3 1 0 6379322
+/Recordings2024/20240328_FIN_1.mp3 1 0 2097152
+/Recordings2024/20240501_TZW_SB_2.mp3 1 0 189595
+/Recordings2023/20231111_RJ_AKYM_1.mp3 1 0 486129
+/Recordings2024/20240330_UNI_4.mp3 1 0 18603448
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+android10 47 6
+linux 53 22
+android 110 27
+macosx15 813 88
+win7 3 3
+ios_ipad 522 45
+win8 1 1
+androidnougat 14 4
+linuxubuntu 6 1
+Unknown 17 12
+androidmarshmallow 2 2
+ios_iphone 13478 1452
+android12 103 8
+win10 532 126
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+safari15.6.1 6 1
+mozilla 537 60
+opera109.0.0.0 1 0
+chrome121.0.6167.160 6 1
+safari16.2 227 20
+safari15.5 65 1
+chrome79.0.3945.130 2 2
+chrome120.0.0.0 1 1
+firefox120.0 14 14
+chrome92.0.4515.159 7 1
+chrome60.0.3112.90 1 1
+chrome52.0.2743.98 2 2
+safari 2007 163
+Unknown 7 2
+chrome123.0.6312.118 17 6
+safari14.0 1 1
+safari16.1 183 14
+chrome117.0.5938.132 24 4
+opera64.0.3417.92 2 2
+safari17.3.1 482 32
+android 3 0
+safari10.0 6 1
+chrome124.0.6367.179 44 6
+safari17.5 1306 56
+chrome123.0.6312.40 86 7
+chrome122.0.0.0 14 3
+chrome124.0.6367.123 55 15
+chrome56.0.2924.87 1 1
+safari17.4 341 30
+safari16.3 70 11
+chrome99.0.3809.100 1 1
+safari16.0 68 3
+safari17.4.1 5370 678
+chrome84.0.4147.89 1 1
+edge12 1 1
+chrome103.0.0.0 1 1
+chrome110.0.0.0 12 2
+chrome59.0.3071.125 14 4
+chrome83.0.4103.61 1 1
+firefox125.0 105 34
+msie10.0 2 2
+safari16.5.2 332 68
+chrome112.0.0.0 1 1
+iphone 3489 406
+chrome125.0.0.0 201 25
+chrome124.0.0.0 312 76
+chrome121.0.0.0 3 3
+chrome114.0.0.0 49 13
+safari15.6.6 180 16
+chrome124.0.6367.172 8 1
+chrome79.0.3945.79 6 1
+safari16.6 27 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Google 20240513224030
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240508221143
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Google 20240513224030
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1179 1334
+From1 1 3
+From2 4 4
+From3 5 7
+From4 609 14354
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+bing_com_catchall 1 1
+yahoo_catchall 2 2
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://t.co 5 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//recordings.wagner-society.net/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+https 1
+//recordings.wagner-society.net/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 263 273635
+404 802 1019907
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 78
+/Recordings2017/06304mov.mp3 1 https://recordings.wagner-society.net/2017.html
+/20240517_URB_NO_Wood9.mp3 5 https://recordings.wagner-society.net/
+/Recordings2024/20240522_TND_Norway_1.mp3 3 https://recordings.wagner-society.net/
+/music/2013/kaigai/wagrec.png 2 -
+/Recordings2024/20240522_TND_Norway_5.mp3 1 https://recordings.wagner-society.net/
+/Recordings2017/0309bdatoyama.mp3 1 -
+/Recordings2017/0309bdalohen.mp3 1 -
+/Recordings2017/4mov.mp3 2 -
+/Recordings2017/0524MTOFOfes2.mp3 1 https://recordings.wagner-society.net/2017.html
+/Recordings2017/1028chukiRach2-4.mp3 4 https://recordings.wagner-society.net/2017.html
+/mobile.css 160 http://recordings.wagner-society.net/2014.html
+/images/wagkeyicon2.png 5 -
+/20240517_URB_NO_Wood6.mp3 7 https://recordings.wagner-society.net/
+/Recordings2024/20240509_Norway_wind_3.mp3 1 https://recordings.wagner-society.net/
+/Recordings2018/0303m5.mp3 4 https://recordings.wagner-society.net/Honban.html
+/Recordings2017/0829jisyuCin6.mp3 1 https://recordings.wagner-society.net/2017.html
+/20240517_URB_NO_Wood10.mp3 2 https://recordings.wagner-society.net/
+/Recordings2017/1028generach2_4.mp3 3 https://recordings.wagner-society.net/2017.html
+/.well-known/trust.txt 1 -
+/.well-known/nodeinfo 1 -
+/20240517_URB_NO_Wood11.mp3 3 https://recordings.wagner-society.net/
+/Recordings2018/wagrec.png 7 -
+/apple-touch-icon.png 148 -
+/Recordings2017/07%201mov.m4a 1 https://recordings.wagner-society.net/2017.html
+/Recordings2024/20240509_Norway_wind_4.mp3 1 https://recordings.wagner-society.net/
+/Recordings2017/0829jisyuCin1.mp3 1 https://recordings.wagner-society.net/2017.html
+/apple-touch-icon-152x152-precomposed.png 11 -
+/.well-known/security.txt 1 -
+/apple-touch-icon-precomposed.png 131 -
+/apple-touch-icon-152x152.png 11 -
+/Recordings2017/0211suntorybrahms2.mp3 1 -
+/Recordings2017/06303mov.mp3 1 https://recordings.wagner-society.net/2017.html
+/Recordings2017/0829jisyuCin2.mp3 1 https://recordings.wagner-society.net/2017.html
+/Recordings2017/0304wienlohen1.mp3 1 -
+/Recordings2017/0115TZWItaly1.mp3 3 https://recordings.wagner-society.net/2017.html
+/Recordings2017/0304wienbrahms11.mp3 1 -
+/ 9 -
+/Recordings2024/Recordings2024/20240522_TND_Nowway_5.mp3 4 https://recordings.wagner-society.net/
+/Recordings2024/20240501_TZW_SB_1.mp3 1 https://recordings.wagner-society.net/
+/Recordings2024/Recordings2024/20240522_TND_Nowway_3.mp3 11 https://recordings.wagner-society.net/
+/Recordings2017/0225PragueKWSRach2.mp3 1 -
+/Recordings2017/0210oktfoitakitoshi.mp3 3 https://recordings.wagner-society.net/2017.html
+/Recordings2024/20240509_Norway_wind_1.mp3 2 https://recordings.wagner-society.net/
+/music/2014/0827FO-6.mp3 1 https://recordings.wagner-society.net/2014.html
+/apple-touch-icon-120x120-precomposed.png 74 -
+/Recordings2024/Recordings2024/20240522_TND_Nowway_2.mp3 18 https://recordings.wagner-society.net/
+/Recordings2017/0304wienbrahms41.mp3 1 -
+/Recordings2024/20240522_TND_Norway_4.mp3 1 https://recordings.wagner-society.net/
+/Recordings2017/0216oktfoitaki1.mp3 1 https://recordings.wagner-society.net/2017.html
+/music/2014/0827FO-5.mp3 1 http://recordings.wagner-society.net/2014.html
+/Recordings2024/20240522_TND_Norway_2.mp3 3 https://recordings.wagner-society.net/
+/20240517_URB_NO_Wood8.mp3 3 https://recordings.wagner-society.net/
+/robots.txt 22 -
+/Recordings2023/20230624_generalprobe_Verdi 1 https://recordings.wagner-society.net/first_2023.html
+/apple-touch-icon-120x120.png 71 -
+/Recordings2024/Recordings2024/240524%20FO_SIB-mov2-1.mp3 2 https://recordings.wagner-society.net/
+/Recordings2017/1025KWSFOrachma4T.mp3 3 https://recordings.wagner-society.net/2017.html
+/.well-known/openid-configuration 1 -
+/Recordings2017/01shukuten.wav 1 https://recordings.wagner-society.net/2017.html
+/Recordings2024/20240509_Norway_wind_2.mp3 1 https://recordings.wagner-society.net/
+/Recordings2017/07%201mov.wav 1 https://recordings.wagner-society.net/2017.html
+/Recordings2024/Recordings2024/20240522_TND_Nowway_4.mp3 2 https://recordings.wagner-society.net/
+/sitemap.xml 1 -
+/Recordings2017/encore.mp3 1 https://recordings.wagner-society.net/Honban.html
+/Recordings2017/1028chukiRach2.mp3 3 https://recordings.wagner-society.net/2017.html
+/20240517_URB_NO_Wood7.mp3 6 https://recordings.wagner-society.net/
+/Recordings2024/20240529_TZW_SB_6.mp3 1 https://recordings.wagner-society.net/
+/Recordings2017/wagrec.png 3 -
+/music/2014/1019Tchaikovsky-4.mp3 1 -
+/Recordings2017/0712filiaFOsampo.mp3 3 https://recordings.wagner-society.net/2017.html
+/Recordings2017/0304wienitaki2.mp3 1 -
+/.well-known/gpc.json 1 -
+/screen.css 1 https://recordings.wagner-society.net/index.html
+/Recordings2017/0309bdaitaki.mp3 5 https://recordings.wagner-society.net/Honban.html
+/Recordings2024/20240522_TND_Norway_3.mp3 2 https://recordings.wagner-society.net/
+/Recordings2017/1027KWSRach4-1.mp3 3 https://recordings.wagner-society.net/2017.html
+/.well-known/assetlinks.json 1 -
+/Recordings2017/0228MunichiKWSRach4.mp3 1 -
+END_SIDER_404
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 713
+2400:2411:c81:f600:7978:fbaf:ce6c:f97 69 288 822561465 20240524040346
+1.75.154.244 61 367 610673689 20240524160102
+124.142.135.195 60 213 386212945 20240529231759
+240a:61:3171:22ce:c493:5d5:d055:60ff 30 265 1917577994 20240530023705
+240d:1a:a36:4500:7520:ed5e:289e:4392 27 351 1040415435 20240522220407
+175.177.49.113 25 138 395952973 20240522112329
+106.154.185.110 24 261 539180478 20240523163828
+133.238.122.80 24 57 3047907 20240523213532
+2400:2200:423:be7:2141:a3bd:a904:8c5d 24 258 697749711 20240523223843
+111.98.108.49 24 66 28022367 20240530012143
+240a:61:32d2:49fb:8d81:edc4:24fa:17d1 4 147 211334041 20240527175026
+126.53.183.77 0 15 41963736 
+2a09:bac3:43a1:dc::16:104 7 7 13069 20240513022349
+66.249.82.129 1 3 5675 20240530013045
+240a:61:32d3:5ab3:7d67:908c:69b0:817 5 57 177969570 20240516191939
+49.98.136.24 0 7 19635951 
+2407:c800:4f11:4d4:c37:839:482c:77b6 1 6 252662 20240513222623
+2001:df0:eb:406e:a958:3d70:bd09:139e 0 6 62028300 
+2001:2f8:200:20:b825:9cd9:318c:66c0 3 18 759078 20240522124831
+2a09:bac2:43a4:dc::16:18c 11 11 31977 20240517002017
+2a09:bac2:43a3:dc::16:16a 1 1 0 20240511010214
+2a09:bac3:43a6:efa::17e:e0 2 5 28518356 20240513221004
+2001:df0:eb:2a00:41e9:1eb0:adda:bb1c 0 1 2882000 
+240f:74:75:1:f1fc:e1e:79f1:834e 2 70 236386105 20240531104801
+2001:df0:eb:2a00:e5a3:2a07:5bc6:c9fc 2 13 1390373 20240517111333
+2a09:bac2:43a1:efa::17e:fc 1 1 3611 20240512010706
+2a09:bac2:43a1:dc::16:1f3 1 6 3333 20240528151727
+2001:268:989e:64a0:9db2:ffee:564b:3afe 5 5 14870 20240520153554
+2001:268:98c5:bd07:c586:b8a4:baf2:e47c 1 14 138702629 20240514131318
+240b:c010:4e2:9655:c56e:ecdd:6048:f3b9 1 6 255101 20240508151940
+2a09:bac3:44bd:1e14::2ff:58 1 6 252662 20240513221635
+2a09:bac3:43a6:efa::17e:f6 1 3 3591 20240530225118
+2001:268:981a:43dc:9193:cc5d:dcbe:6056 1 4 4083 20240531183322
+2400:2410:2363:4d00:11f4:478b:6f46:37e1 1 6 252662 20240513221201
+240b:c010:4e4:777:e02e:9190:ac29:d827 0 44 293643423 
+2400:2200:460:acf0:ac74:b9bf:1a25:bca9 1 2 3488 20240525181145
+2001:f70:84c0:1900:f4da:3d0f:708:57ec 8 43 1772841 20240508222546
+35.243.23.38 1 1 307 20240507101946
+2a09:bac3:43a2:efa::17e:108 1 6 252662 20240513223710
+240f:7b:ba7d:1:b419:4c59:f1f6:d5c3 2 7 252114 20240508225514
+2a09:bac3:43a6:efa::17e:d0 1 1 0 20240517020831
+104.166.80.38 3 3 12093 20240523013734
+54.84.218.144 1 1 20683 20240528010451
+2a09:bac2:43a6:dc::16:160 1 1 3333 20240529091359
+240b:11:341:eb00:f9b4:ffc:a544:7db8 3 8 259512 20240508220541
+2001:2f8:200:20:3cf7:af72:a6e:4e38 0 2 507697 
+2a09:bac2:44b8:174b::252:1d 1 1 3230 20240531143857
+124.39.211.81 1 6 252662 20240513222538
+2a09:bac3:43a2:efa::17e:7 0 4 17198000 
+2407:c800:7a12:152:58b2:900a:c2:101d 12 42 1536042 20240522104116
+2001:df0:eb:81b2:c191:2b01:5f07:3b3e 1 33 200214122 20240517161827
+2001:df0:eb:2a00:dccb:ee09:9229:7e36 3 3 8943 20240522110831
+2a09:bac2:44c2:11d7::1c7:6b 1 2 411 20240509103607
+49.106.187.250 1 13 65698398 20240531162742
+2a09:bac3:43a6:efa::17e:12 1 1 3294 20240519204420
+153.155.51.95 1 13 51541371 20240521002449
+2a09:bac2:43a6:dc::16:116 3 3 5359 20240512231130
+240b:11:51a0:d200:cc90:4e22:66ae:4ed6 1 6 252662 20240513224504
+2a09:bac2:43a0:dc::16:164 2 2 5402 20240516202610
+2a09:bac3:45be:efa::17e:80 2 7 254183 20240509103626
+2001:2f8:200:20:e1af:bc7f:2f25:4659 1 9 25960316 20240529185537
+2a09:bac3:43a6:efa::17e:137 0 3 20903790 
+210.188.141.249 8 83 337528291 20240528134231
+2a09:bac3:43a5:efa::17e:124 2 2 3611 20240512185343
+240f:75:5c77:1:cc90:1c1b:5170:6ccf 1 6 252662 20240513223902
+2409:10:ca20:900:540a:b8da:48d6:c587 2 12 254816 20240508224309
+2400:2411:c0:2f00:345c:9561:1700:db8f 0 3 17048227 
+2001:df0:eb:406e:407b:803:1bd9:16e4 3 13 509321 20240524120419
+2001:2f8:200:20:40ca:19bc:56fa:2935 0 4 8122000 
+157.65.150.117 2 12 509900 20240507101931
+240b:11:341:eb00:7331:adac:cfff:a1e5 1 6 252662 20240513221738
+2001:df0:eb:2a00:14cf:2bfc:81d4:7d49 0 2 0 
+240b:11:341:eb00:85e6:c11e:d0f3:4280 1 6 252114 20240509232606
+192.30.83.119 1 1 2551 20240507122614
+2400:2200:391:fc00:7934:97b1:f626:6045 3 109 138356242 20240531163001
+223.134.140.209 3 16 47506339 20240531234857
+122.26.23.8 1 6 253122 20240526181128
+104.166.80.166 1 1 3394 20240515014653
+2a09:bac2:43a6:efa::17e:9 1 1 0 20240513115407
+2a09:bac3:43a1:dc::16:1c3 0 6 53182954 
+2400:2200:669:ebfc:9976:a369:9d72:f4f1 1 6 253019 20240520093039
+240a:61:1112:4677:18bf:a6b9:aa6c:10f5 2 56 107878878 20240514100612
+2001:df0:eb:406e:11b3:c8e6:7835:336d 1 6 253019 20240521193430
+66.249.83.135 1 1 3497 20240519013735
+126.35.199.96 1 4 22693584 20240525134749
+2001:df0:eb:406e:442a:3600:d768:9c71 0 19 34769617 
+2001:268:980f:666f:ac03:a54b:a8fc:7d02 0 44 231755545 
+49.105.82.159 1 12 29300846 20240524114012
+2001:2f8:200:20:cd9c:289d:8cda:2a97 5 6 77372 20240508132502
+49.96.235.236 1 10 61323671 20240514131916
+131.113.231.191 5 78 426640301 20240531194101
+2a09:bac2:44be:11d7::1c7:42 3 6 2415 20240523123732
+2001:df0:eb:81b2:fd19:ea6a:1cd3:db12 3 3 0 20240523202132
+240b:c020:470:140b:558a:643:bd5f:6836 3 30 103967688 20240522103930
+2001:df0:eb:406e:8177:2faf:ac56:1d41 3 22 66578575 20240515191232
+2001:df0:eb:406e:287f:e193:fc42:53c3 0 10 104069436 
+2a09:bac2:43a0:efa::17e:d7 8 20 103058319 20240510235051
+2a09:bac2:43a7:efa::17e:10b 1 1 2432 20240510232122
+2a04:4e41:29:b::3c3c:f908 1 1 0 20240529120114
+2400:2411:7e1:ef00:a194:d843:6bf3:beea 2 12 506038 20240521001355
+2001:df2:c900:2411:abc0:a3b8:d770:2ec3 1 6 253276 20240531110510
+2a09:bac3:43a6:dc::16:208 1 1 3591 20240530232441
+2a09:bac3:43a1:efa::17e:da 0 2 4977765 
+2a09:bac2:43a1:dc::16:1ce 4 13 59130194 20240501193938
+240b:c010:403:27ef:81d9:f8d4:9453:504 1 1 2617 20240514091253
+2001:df0:eb:406e:41b4:66f0:55ab:d724 1 46 319239694 20240513171020
+2001:df0:eb:406e:6cd9:6783:510e:7658 1 6 253276 20240531134527
+240f:74:75:1:1968:cecf:4603:6d09 0 16 147230281 
+2400:2200:64d:e825:d49c:361:b717:5a97 1 6 252662 20240513221257
+240f:39:31b1:1:a9b4:29e5:4113:d8d 1 6 252662 20240513221736
+2400:2200:423:be7:80b4:203f:9f68:aa07 0 111 935064183 
+106.133.32.203 1 13 36284552 20240514123745
+2001:df0:eb:c200:5179:cb1c:a983:9104 3 42 285577992 20240522103959
+126.166.49.45 0 20 38409559 
+1.72.6.137 7 27 1021143 20240524153505
+126.53.182.67 0 3 20630281 
+2409:10:ca20:900:6d7b:afe0:2ad2:1fbb 9 30 29403036 20240524005836
+2400:2411:fa2:e300:4133:d401:b415:b0fc 1 6 252662 20240514031759
+126.53.182.223 1 1 0 20240524204715
+2a09:bac2:43a6:dc::16:114 0 1 1353007 
+131.113.63.161 2 2 6462 20240530155152
+2001:df0:eb:81b2:e8e6:5957:f944:84c0 1 1 3333 20240529105459
+2a09:bac3:43a1:efa::17e:79 1 1 0 20240517002539
+240a:61:5c98:352b:88bb:e6df:bc2b:31e9 1 5 39118357 20240528082659
+2a09:bac2:43a3:dc::16:1ee 2 17 125560443 20240513033418
+240b:c020:422:5c86:414f:9a7:cd86:ccff 2 7 256711 20240527140513
+2a09:bac3:44be:174b::252:10 1 1 0 20240524091655
+153.249.164.114 1 10 10688863 20240527192411
+2001:df0:eb:2a00:c0fa:656c:3673:40d7 2 2 5948 20240520124817
+133.106.36.136 1 13 7788831 20240525113630
+34.231.60.151 2 2 6906 20240513222504
+2001:268:981a:6074:f4e6:4f05:ff6e:ba8a 0 18 112916879 
+2400:2410:2b80:1800:8d80:5a1d:a21:b32d 1 11 82922356 20240526204614
+2404:7a81:1aa0:3800:b908:c54:7a81:23cf 1 10 11498729 20240514083557
+126.233.221.227 0 3 39006650 
+2a02:26f7:b9a8:6006:0:d92f:fb79:861a 3 57 66170307 20240522181538
+2001:268:98a7:3b05:b482:8803:4279:63cf 1 6 252474 20240511090112
+240a:61:1151:38d:dc91:2c4c:e5b2:891d 2 68 292700412 20240528081802
+2001:df0:eb:406e:5db0:ae97:692b:59da 1 1 3293 20240531194106
+2407:c800:2f31:130:50b:1d9a:499b:669c 0 3 769773 
+2a09:bac2:43a6:dc::16:123 0 2 61290 
+104.165.199.25 1 1 2162 20240507112710
+2a09:bac3:43a0:efa::17e:113 1 1 0 20240511001430
+2a09:bac2:43a1:efa::17e:f1 1 1 2419 20240516222110
+2a05:d016:39f:3101:e046:75ba:d4d5:3cfa 1 1 328 20240508221137
+126.143.81.6 11 305 1154036975 20240529232939
+126.179.44.193 1 24 136097442 20240527175057
+2400:4051:ea3:2400:2948:eb6c:da3a:5cc2 1 13 53877231 20240513223235
+2400:4050:2d22:f600:68a1:94e6:4962:97a 0 1 2358000 
+2a09:bac3:43a0:dc::16:18b 1 1 2520 20240512002710
+2400:2411:fa2:e300:f1ec:8902:1ed4:53cc 4 29 260404639 20240516002433
+2001:df0:eb:406e:9d61:f4e3:53e6:ae0d 1 9 20400014 20240520193118
+2a09:bac2:43a6:efa::17e:121 0 3 34846907 
+240a:61:5196:101e:209c:85ea:6ba0:19b4 5 5 15463 20240524095136
+2a09:bac2:43a0:efa::17e:1b 1 6 2974 20240520122329
+2001:268:98e8:34c6:28a7:a745:2274:16b 2 119 260419935 20240527163718
+2001:268:98d4:48b0:55e6:354f:3503:a152 1 1 0 20240518125653
+2600:1900:4000:cece:0:4d:: 1 7 353251 20240508221319
+2001:268:9877:985d:5ccd:7a7d:b2ac:eb1f 1 10 12714039 20240513210859
+240f:3b:da5e:1:3434:5e2a:3387:836d 1 13 40149216 20240526210001
+2001:f70:84c0:1900:fd86:eaed:8094:8aa8 9 37 22906800 20240509002009
+2a09:bac3:43a1:efa::17e:137 1 1 3077 20240526022754
+125.12.180.147 13 137 460409808 20240530163656
+240d:1a:92e:4005:ed5a:cf66:887f:d905 1 10 38006995 20240513223701
+146.59.19.135 0 1 2689 
+2a09:bac2:43a5:dc::16:17a 4 20 141709870 20240517003318
+2a09:bac2:43a2:efa::17e:95 0 3 22866733 
+240a:61:12c0:5fe5:f1af:8ed3:45b3:51c3 0 60 231583998 
+118.241.126.101 1 9 34126048 20240513231842
+2400:2200:441:96f6:1906:4497:ae77:b010 3 101 47736353 20240529213525
+2404:7a80:8940:b510:8472:95c2:5483:c6a2 1 6 252474 20240511001408
+240b:11:3aa0:a800:d949:7bf2:e227:4f47 6 90 234226260 20240522103931
+2400:2200:423:be7:9019:d46d:a781:d4a4 4 74 98714293 20240524162241
+240f:7b:ba7d:1:24e0:a79e:a127:be2a 1 5 251900 20240510004023
+2001:df2:c900:2411:d9de:c0f2:ca4a:6867 2 12 505117 20240514120231
+2400:2200:3a1:7b80:94d0:c71f:5eee:d75d 7 95 77219231 20240531201346
+126.53.182.165 0 3 15659277 
+240b:11:9fe0:5c10:409b:8d1d:5078:4861 1 6 252242 20240510001607
+133.106.36.144 1 6 252662 20240514105212
+2a09:bac3:43a1:efa::17e:1e 1 1 2522 20240512205440
+2a09:bac2:43a6:efa::17e:f2 1 7 32322930 20240522010651
+2a02:26f7:b994:6006:0:87bc:2359:f33f 1 2 411 20240528112253
+133.106.49.59 1 6 253378 20240527140448
+240b:11:341:eb00:25aa:cbc9:fd1b:f099 8 32 72200363 20240509234309
+240b:c010:432:5d91:e13a:b6d5:af10:e934 1 15 60261384 20240530130341
+66.249.83.128 0 2 99160 
+2001:268:980e:bb64:d48:335c:7049:203 2 12 504910 20240516090754
+2400:2411:7e1:ef00:dd64:cbf:f45:1280 1 33 133495696 20240526204150
+240f:73:2ad1:1:a1ec:42a0:a30d:2325 0 2 1703002 
+104.166.80.124 1 1 3394 20240516014458
+2001:2f8:200:20:ede1:aba9:48b7:dfc2 0 1 1146250 
+210.172.128.230 2 12 507414 20240516160920
+2a09:bac3:44bb:11d7::1c7:44 1 1 3294 20240521120631
+49.109.4.202 0 1 3013072 
+2001:268:9892:5dea:a0a6:263d:b255:f661 12 123 316567908 20240522104319
+2a09:bac3:43d3:dc::16:1e0 1 6 252690 20240510094332
+2a09:bac3:43a6:efa::17e:133 1 1 2834 20240512011201
+126.53.182.180 1 6 253338 20240531172204
+240b:11:3aa0:a800:e4b8:b6af:4b7e:23b4 6 12 322322 20240513224042
+2a09:bac2:43a6:efa::17e:e7 0 20 111134947 
+2001:df0:eb:406e:282b:ff1b:7a80:1b45 0 34 67273806 
+2a09:bac3:43a0:efa::17e:119 3 10 426000 20240506232132
+2a09:bac2:43a4:dc::16:1e3 1 8 65087522 20240511204843
+2001:268:9827:755d:8471:f07a:6bac:8910 1 1 2410 20240514144904
+2a09:bac3:43a0:efa::17e:dc 1 4 24156218 20240512025842
+2a09:bac3:43a1:dc::16:184 3 3 0 20240513222118
+2400:4051:a1c0:5700:9cc:15e0:1611:94a1 1 6 252662 20240513223538
+106.133.25.79 1 1 2974 20240519225537
+2a09:bac2:43a6:efa::17e:79 1 6 250045 20240509002305
+2a09:bac3:43a2:efa::17e:22 3 21 137820264 20240510023011
+2001:df0:eb:81b2:4eb:4fd0:8f12:b4a2 1 49 353583028 20240528115718
+240a:61:502c:34c2:1162:9f37:690e:6712 2 25 93549235 20240513224221
+2001:df2:c900:2411:575f:f4d8:4fe0:d734 1 13 23744946 20240524114010
+2a09:bac3:43a0:dc::16:210 0 8 55449391 
+49.97.70.229 1 20 140141414 20240527142311
+2400:4050:8120:8e00:38ff:40af:e442:2953 12 23 1485777 20240526205617
+2400:2200:422:9a94:bcde:591c:5b5c:248 0 9 81943422 
+106.72.144.65 2 116 230763281 20240529235910
+240b:11:9fe0:5c10:e853:6d0e:c0a6:4f03 3 24 130422245 20240530022746
+106.146.28.73 1 8 19543995 20240524124127
+2a09:bac3:43a6:efa::17e:18 1 4 154686 20240525114331
+133.106.144.166 0 7 2690471 
+2001:268:9891:8e96:91de:1d1b:c8b3:fbf5 11 14 354169 20240526205839
+240d:1a:b2:4800:7c58:272c:f3d9:4725 0 1 3013000 
+2400:2200:4ae:7fee:d4f4:9320:ceaa:5542 1 104 219795617 20240513193204
+2001:2f8:200:20:56a:7321:af75:a1e1 1 6 252662 20240514091002
+2400:4050:2d22:f600:3de3:39f8:426d:616a 1 23 166313652 20240529162104
+2a09:bac2:43a6:dc::16:132 7 10 30436856 20240512013455
+2a09:bac3:43a0:dc::16:1da 2 3 6332 20240518011319
+2001:268:98c5:ae7c:c939:6bc8:1858:b9d8 6 36 1518156 20240523084149
+2a09:bac3:43a7:dc::16:221 0 3 4062442 
+2a09:bac3:43a6:dc::16:16b 2 13 107641437 20240515011641
+2a09:bac3:43a5:efa::17e:16 3 3 7820 20240511232905
+2001:df0:eb:2a00:891d:baf0:5563:a036 1 6 252662 20240514110823
+2407:c800:2f31:130:fce0:ed05:5065:5954 3 21 128481419 20240527113825
+240a:61:1112:4677:9fc:694d:424e:8613 0 9 63028471 
+2001:df0:eb:2a00:f96e:c415:759c:af48 0 1 1716139 
+240b:11:3aa0:a800:f4be:b835:4ec5:48e6 18 182 366713030 20240519235306
+2a09:bac2:43a6:efa::17e:da 1 1 2429 20240511110359
+133.106.144.137 1 9 14067031 20240530111441
+2a09:bac3:43a6:dc::16:1ad 0 7 50781338 
+2a09:bac3:43a7:dc::16:1df 3 13 70609011 20240510231333
+2001:268:981a:1c64:dd78:e935:6239:8fcc 0 82 294382956 
+240a:61:1c18:71f2:542f:ee8d:7620:7fdf 1 6 252474 20240511081256
+2400:2200:3ad:587f:ed3b:519b:84e3:e4d5 0 3 50997512 
+113.43.242.202 4 24 1011618 20240522111838
+210.137.32.218 4 24 31298477 20240529103952
+2404:7a80:b240:1100:9ca7:f398:a7e2:3d59 1 20 134433486 20240528182659
+2400:2411:5982:5b00:f667:4ee2:9a51:9e2d 2 19 64312473 20240521211018
+2a09:bac3:43a0:efa::17e:125 1 1 2928 20240513042600
+2a09:bac3:439b:dc::16:122 1 6 252662 20240514000520
+2001:df0:eb:2a00:45c9:8cae:b106:afa4 1 1 3231 20240530140738
+240a:61:4282:d233:6800:eff:5211:9fdc 0 22 128809509 
+2001:268:98c5:be8:cd7e:18d6:8026:f7c0 4 45 17616055 20240520101746
+49.97.13.59 2 20 35250778 20240527182022
+2600:1f16:269:da02:f081:4056:f6ef:59db 2 2 656 20240508221142
+2001:bc8:1600:4031::1 1 1 2880 20240508221307
+2001:df0:eb:406e:2914:2c16:36d8:1062 1 1 2974 20240520203009
+111.97.178.195 0 3 12805252 
+2400:2411:c81:f600:15a4:1c42:2579:bd59 1 6 252662 20240513230042
+2001:df0:eb:406e:a4f5:cd92:ab1b:c338 1 24 126365974 20240527140551
+203.12.0.21 0 1 150845 
+126.166.42.96 0 1 13874161 
+240b:c010:432:725a:41ea:28df:c814:cefd 0 1 69704 
+2407:c800:5101:9500:f197:59b9:e453:a130 1 6 256208 20240513231105
+2a09:bac3:43a7:dc::16:17a 1 1 0 20240514000742
+2001:268:98b3:1f94:10e9:8a8f:7b8f:3493 3 132 521547654 20240522173114
+2600:3000:2710:200::84 1 1 339 20240508221142
+2a09:bac3:43a0:dc::16:21a 1 4 15725223 20240518151941
+128.53.191.218 2 12 511586 20240514172019
+65.154.226.166 1 6 254950 20240507111939
+2001:df0:eb:c200:1c1e:ae0:e7cb:ee38 2 12 504800 20240509104632
+122.26.58.140 1 25 39932066 20240516002817
+131.113.199.55 1 17 4969025 20240520130041
+2400:4051:5863:9200:29a4:9a54:b949:3b7 1 6 253732 20240528172021
+2a09:bac3:43a7:efa::17e:81 1 1 2410 20240516105525
+240d:1a:92e:4005:dc8:8fc0:841f:5a4c 1 16 90864303 20240526204124
+240b:11:3aa0:a800:1cc7:2d8a:9027:aa43 3 20 61258125 20240518234401
+2001:2f8:200:20:bdf1:247f:110e:5ad 2 50 56037333 20240514104117
+2001:2f8:200:20:340f:78ab:a3b8:36bb 3 3 8943 20240523120943
+2400:2200:506:557b:c4d7:137a:c306:d112 1 10 18286947 20240526205348
+2a09:bac3:43a0:efa::17e:24 1 1 2482 20240517002025
+95.217.5.33 0 1 23176 
+106.146.28.92 1 6 253378 20240527170954
+2a09:bac3:44be:1e14::2ff:b 1 1 0 20240509143806
+2001:268:98d4:48b0:1d43:719a:179f:dcb6 1 6 253019 20240518093406
+2a09:bac2:43a6:efa::17e:105 1 11 59048099 20240513024255
+2400:2200:443:6d4d:8d6f:e2d1:5397:5b9b 0 5 47684288 
+104.166.80.53 1 1 3819 20240519013744
+2a09:bac3:44b8:11d7::1c7:3a 3 3 0 20240523211738
+2a09:bac2:43a0:efa::17e:11c 1 1 2410 20240515215841
+240d:1a:d3:9700:1945:9678:a74:233 1 27 220416392 20240513223750
+2001:268:981a:1c64:989:2707:6261:b6cb 0 4 12770366 
+2a09:bac2:43a6:efa::17e:d7 2 2 4065 20240513114254
+106.146.36.25 1 1 3333 20240528160854
+2400:2411:c81:f600:804e:e22a:f4a4:2233 5 62 390823970 20240524121335
+2a09:bac3:43a6:dc::16:1ca 2 2 6462 20240530233203
+2400:2200:4ea:29a0:30e5:64f8:5be:8045 1 13 51176912 20240530194647
+2400:2200:ce:fb61:8132:7311:1763:9e15 2 12 504484 20240509235940
+2001:268:98b8:70a8:3036:d5a6:5ad7:265e 2 7 255035 20240518010828
+240a:61:32d3:5ab3:f873:e642:3682:cd38 1 6 252662 20240513165939
+2a09:bac3:43a7:efa::17e:12c 3 3 9119 20240530232617
+240b:11:3aa0:a800:855e:b0f5:245f:38f9 3 12 496144 20240520224827
+2a09:bac2:44b9:11d7::1c7:1b 0 12 117681936 
+2001:f70:84c0:1900:a32d:1985:20b3:f72b 3 15 21613725 20240509012925
+106.146.20.136 0 7 13545853 
+2600:3c01::f03c:94ff:fe64:a7a0 1 1 10285 20240508221310
+106.146.35.7 0 51 97341934 
+2a09:bac3:43a4:efa::17e:14 1 9 16278868 20240527162425
+2a09:bac2:43a1:efa::17e:131 7 10 25980145 20240512032329
+196.242.178.2 1 1 2551 20240507112011
+2400:2200:401:670f:d904:1ee3:495e:98b3 21 51 1562871 20240523171603
+2a09:bac2:43a6:dc::16:1a7 1 1 0 20240514003718
+2400:2411:c81:f600:d032:6433:9c6d:6862 0 3 23479584 
+2001:df0:eb:406e:8830:f25b:97b9:c53c 0 6 52924002 
+2400:4050:3882:400:ecec:8f3e:294f:67e8 1 1 3333 20240526224300
+240f:7b:ba7d:1:5473:2d27:562c:f7fe 1 1 2617 20240513225813
+240a:61:32d2:49fb:b819:d360:9c97:6c0e 3 23 121314728 20240531173029
+240d:1a:92e:4007:7dcb:f13a:ced:af66 1 11 57518333 20240526204719
+66.249.82.128 2 4 7985 20240530013045
+240b:11:9fe0:5c10:81a:5aba:109e:7461 2 2 5519 20240530011648
+126.253.187.133 2 10 1630781 20240513223423
+2a09:bac3:43a0:dc::16:213 3 3 11866 20240513040353
+240b:c010:4e3:5e70:e441:57c5:aa7a:3427 1 6 200991 20240519165533
+240a:6b:c20:3443:b1fa:e9b7:78a0:d43c 1 8 402818 20240517100038
+126.157.79.153 1 47 229817849 20240527134907
+2a09:bac3:43a6:dc::16:1ba 1 1 0 20240513095605
+2001:df0:eb:406e:7970:25a4:fa11:6a1a 1 1 2974 20240520182955
+66.249.83.129 0 1 1404 
+240b:10:21a1:e600:11c5:f2cd:1aad:7a2c 3 12 46844482 20240513221708
+2400:4050:3882:400:2174:2f51:ad5f:bcac 13 131 659143301 20240526221513
+2a09:bac2:43a1:dc::16:228 2 33 169785437 20240518134710
+109.236.7.74 4 10 322206 20240513223423
+2001:2f8:200:20:49b0:29b9:d2a8:6881 1 18 49886279 20240530104040
+2400:2200:5c1:ed72:d870:858c:57e1:2585 15 75 149999469 20240523094010
+2001:df0:eb:2a00:6595:6b67:90f4:4dfc 6 585 555680889 20240522110722
+2001:268:9870:7e95:787c:67b3:7677:ab8 2 27 160340056 20240524155546
+103.242.30.254 1 6 252662 20240513234222
+2a02:26f7:b9b4:616b:0:1973:de18:3d10 0 1 2620000 
+49.105.70.7 0 3 36896770 
+240a:61:1c48:bfb:931:5f01:20ee:c19a 1 6 253378 20240529221630
+104.166.80.190 1 1 3394 20240515014346
+2a05:d016:39f:3101:1d65:c815:f3a6:8fc3 1 1 328 20240508221143
+104.166.80.104 4 4 15912 20240523014409
+2a09:bac2:43a0:dc::16:17c 2 2 5478 20240511003948
+150.249.214.250 0 3 98962 
+2a09:bac3:43a4:dc::16:218 2 2 5354 20240512001638
+240a:61:1ca0:192b:6884:d88f:e3bf:15d9 0 1 8253072 
+2a09:bac3:43a3:dc::16:22c 2 2 0 20240513034747
+49.106.193.237 0 1 3013360 
+2a09:bac2:43a6:efa::17e:98 1 7 35006681 20240521194202
+2a09:bac3:44bd:1e14::2ff:29 1 1 0 20240531145415
+2001:df0:eb:406e:2c99:9edb:2166:67b6 0 30 234716572 
+240b:11:3aa0:a800:49ca:a1df:e455:837a 1 7 31709732 20240517085958
+2a09:bac3:43a0:efa::17e:e3 1 1 3166 20240518012522
+2a09:bac2:43a5:efa::17e:12 4 7 183991 20240511233219
+2a09:bac3:43a0:efa::17e:fb 1 1 0 20240520221827
+2a04:4e41:29:b::1433:4c03 1 1 2551 20240507233951
+240d:1a:a36:4500:9d4a:88fe:66dc:3b79 0 3 589824 
+79.191.190.175 3 3 25285 20240530081656
+2407:c800:2f31:130:68a0:75c3:683c:384e 1 6 252662 20240513221158
+2a09:bac3:43a1:dc::16:18c 1 1 2933 20240513033015
+2a09:bac3:43a1:dc::16:186 0 1 1784760 
+2001:df0:eb:81b2:798f:1c1:65f4:405b 0 1 66088 
+150.249.214.253 1 3 153493 20240515125608
+240a:61:1112:4677:4dc:f226:fd45:b914 2 10 10166056 20240515092322
+2400:2200:460:9fd0:94f6:29ff:fd9c:fdea 6 85 74945409 20240525201305
+240b:11:762:7300:d124:a512:12e6:e445 4 22 57886510 20240513222332
+240d:1a:4d2:3100:11c9:4381:34d6:7ad6 1 6 252662 20240513222222
+2a09:bac2:44be:1e14::2ff:15 4 4 11136 20240528145505
+2a09:bac2:43a1:dc::16:21e 0 1 5508498 
+106.146.19.177 1 6 252662 20240514112042
+240f:143:9226:3212:f022:38cc:29fd:7174 1 6 252455 20240514131103
+49.105.69.62 1 6 252455 20240514213958
+240a:61:3cb4:2ee7:c5d2:d3f7:4421:f8a8 2 50 188872415 20240516140802
+2a09:bac2:44be:1e14::2ff:4f 1 1 2617 20240513210632
+2001:268:9875:3f77:717a:aecb:5ed9:265c 13 235 836742283 20240530120231
+2a09:bac3:43a6:dc::16:1fa 1 1 2869 20240514235407
+2001:268:9891:1822:3c84:b37:4ed1:bb6f 5 19 21342332 20240525232932
+2001:df0:eb:81b2:8593:25ed:6212:bdc1 1 5 103100 20240528143835
+49.105.68.6 0 1 2789042 
+126.253.163.3 3 81 496569693 20240522141244
+2001:268:d26e:d32a:8d39:3c79:ed1d:cb1 1 6 252662 20240513223218
+2001:df0:eb:406e:258b:5e01:a48a:fb30 4 16 53992838 20240513091221
+2400:2200:506:557b:dcbc:e312:8fe1:eea 1 6 252662 20240513221153
+2a09:bac2:43a2:efa::17e:11e 2 2 2502 20240511234020
+2a09:bac3:43a0:dc::16:208 1 1 3294 20240518231906
+2001:268:9891:d69e:c583:fc69:6383:ec26 6 55 168881829 20240514123500
+2a09:bac2:43a2:efa::17e:7e 2 2 2482 20240517015421
+2400:2200:720:bd24:4f7:2110:72e:5a72 1 6 252662 20240513221217
+2400:2410:3f04:5400:2993:c212:3edf:d27b 2 12 505324 20240513222330
+240a:61:3171:22ce:f477:b06c:782b:148c 2 5 5339 20240528222610
+240b:11:3aa0:a800:7470:28e:e8e9:5d04 6 36 1518156 20240522235801
+2a09:bac2:43a1:efa::17e:118 1 5 47461531 20240524195850
+2001:df0:eb:81b2:e840:492c:b129:b9ce 1 6 252455 20240514181518
+2a09:bac2:44b8:174b::252:6 3 3 10615 20240531145042
+2a09:bac2:43a6:efa::17e:2 3 42 279531735 20240523015104
+2a09:bac3:43a0:11d7::1c7:37 1 4 177969 20240512001954
+2a09:bac3:43a0:dc::16:1c8 1 1 0 20240512235942
+104.166.80.156 1 1 3394 20240516014647
+2a09:bac2:43a0:efa::17e:df 1 1 2837 20240512033125
+2a09:bac3:43a0:dc::16:160 1 1 3294 20240519192927
+111.101.7.1 1 6 252662 20240514001305
+2406:da18:85:1402:f9d9:916e:8e4c:8ac4 1 1 339 20240508221142
+240a:61:5251:a66a:b14b:9da2:1b30:5763 1 13 61738737 20240531093746
+2a09:bac2:43a6:efa::17e:83 4 5 69467 20240519121935
+2001:df0:eb:406e:a53c:da5:e683:719f 2 5 181302 20240527134917
+2400:2412:1323:ad00:109b:4808:f04f:2ea1 4 17 37466191 20240528211619
+240b:11:3aa0:a800:187e:8159:63e3:8d0 3 53 216151889 20240530090005
+1.72.0.19 2 25 74651326 20240514091235
+2001:df0:eb:406e:6881:2a07:eff9:b606 2 16 78952954 20240508124139
+2001:df0:eb:406e:a524:d80:d1de:b6de 3 18 759078 20240522144130
+106.146.39.214 1 1 3077 20240525110139
+2400:2200:3e8:a9f3:d513:a3ab:36d6:2dd1 1 11 81922471 20240515191617
+2a09:bac3:43a6:dc::16:1be 1 12 79818604 20240512015107
+2400:2410:cac1:2600:c4a:e1af:e63e:4b26 0 21 69401502 
+2a09:bac2:43a5:1e14::2ff:3b 1 6 252662 20240513084907
+240a:61:5022:13dd:e57a:d4f9:33b1:9ef8 3 70 286213185 20240530143426
+240b:10:30a2:49f0:3c93:3187:3875:f90f 1 19 72433808 20240514004531
+2400:2200:3a3:6171:8def:f7bc:dbfa:85d8 1 29 19707988 20240524122622
+240b:c010:4c1:e7b9:6969:3c1c:bece:a32d 1 6 252455 20240516114801
+2a09:bac3:43a6:dc::16:1bf 1 1 2816 20240511235953
+2404:7a80:b240:1100:68bb:a9df:220a:54d5 1 41 350273290 20240529111638
+49.98.211.76 1 33 221568201 20240531171822
+49.97.21.80 4 9 5492372 20240518002743
+2001:df0:eb:406e:a5a9:3610:7da8:cbde 1 16 37279459 20240515194225
+2400:2411:c0:2f00:fd54:995b:a901:4d28 12 33 54828068 20240524133923
+2404:7a81:f60:ed00:2106:1d04:d8f8:109e 3 76 235346860 20240515234506
+175.177.44.48 12 74 216550339 20240514231322
+153.246.252.232 4 50 153022802 20240526203819
+65.154.226.169 1 6 254950 20240507111936
+240b:c010:440:8ddc:c59e:cd61:295d:ebf2 3 9 295698 20240523121446
+2a01:4f9:c012:6365::1 1 1 2880 20240508221306
+240b:10:30a2:49f0:7d50:5158:43a:6f44 0 1 2227000 
+2a09:bac3:43a1:dc::16:1a0 1 1 2520 20240512005437
+2a09:bac2:42a3:dc::16:212 1 1 2617 20240513222554
+2001:df0:eb:406e:a480:9cfb:9162:2d82 1 6 253122 20240524164246
+2a09:bac2:43a1:dc::16:166 1 4 25885769 20240519201049
+2a09:bac2:44bd:174b::252:b 3 3 0 20240523164825
+2a09:bac2:43a6:dc::16:1cd 6 6 23714 20240515014021
+2a09:bac2:43a4:efa::17e:116 2 2 2816 20240511232602
+2001:df0:eb:406e:b0f0:9316:73e6:a660 3 5 8185 20240531200351
+2a09:bac3:43a0:dc::16:222 1 1 2594 20240530004817
+2a09:bac2:43a2:efa::17e:11c 1 1 2410 20240515110114
+2407:c800:7a12:152:f128:de7a:6944:1eb1 3 12 533907 20240522212000
+2001:df0:eb:406e:b1e9:c4e6:6fbd:960e 0 3 33745812 
+2400:2410:a640:9600:65a1:8948:c60b:6c8e 1 6 252662 20240513221643
+205.169.39.251 2 7 257112 20240507111957
+150.66.88.184 1 6 253122 20240524160235
+2a09:bac2:44b8:1e14::2ff:9 1 1 0 20240521120612
+240a:61:32d3:5ab3:294d:f587:2140:36bc 8 89 90256443 20240517162203
+2400:2200:4b1:d966:14f8:88ff:fe30:61ea 1 11 49053153 20240521142949
+240b:11:3aa0:a800:4d70:514d:cf6f:8291 13 57 252397971 20240530195943
+126.53.183.47 0 7 35192406 
+2001:268:9862:aa6e:2148:cff5:93bf:f6b7 1 1 0 20240514163450
+240b:11:9fe0:5c10:dc8c:a8d4:3c9c:70d6 1 7 62179306 20240526205721
+138.197.73.74 1 1 3819 20240519150911
+153.251.93.159 9 54 2277234 20240522211249
+2a09:bac3:43a6:efa::17e:105 1 1 3506 20240522033321
+2a09:bac2:43a0:dc::16:219 2 2 0 20240511234858
+49.97.96.60 0 4 17799627 
+104.166.80.64 1 1 3453 20240514015224
+2a09:bac2:43a1:efa::17e:129 1 1 2645 20240509234718
+2400:2410:3f03:b700:2cf5:f8e3:5bdc:ccc7 0 18 52918632 
+2400:2411:19e0:1b00:b81e:ea70:fe24:2e68 1 6 252662 20240513093439
+2001:f70:84c0:1900:85de:7066:2780:224c 19 30 12366410 20240516190833
+2600:3c01::f03c:94ff:fe64:a78f 1 1 10107 20240508221307
+126.194.216.165 9 51 105612105 20240523093650
+240a:61:519c:88fb:5555:84a1:4300:2aa 6 21 768021 20240523082703
+2a09:bac3:43a1:dc::16:1fc 1 30 150186660 20240524124036
+240d:1a:92e:4007:f5f6:20da:f2e6:fcb8 1 6 252662 20240513224830
+131.113.231.190 2 208 762252436 20240527183924
+2400:2200:7c6:c884:78b6:f91e:9e36:e8a5 3 35 109264657 20240527164839
+2400:4051:ea3:2400:3954:4ee7:d573:71e9 1 28 6639272 20240526212529
+2001:2f8:200:20:7497:4c72:6aeb:c8a1 1 1 0 20240514102851
+2001:df0:eb:406e:c54a:7f5e:f9d2:f622 1 1 0 20240521182535
+221.255.65.233 1 6 252662 20240513230828
+240b:11:9fe0:5c10:802d:c462:55c1:2bf3 15 144 532434714 20240524022914
+240f:30:532d:1:7c5c:e785:773c:c3e2 2 12 505324 20240513225417
+126.166.186.171 1 6 253276 20240531095300
+2400:2411:7e1:ef00:5073:abe5:17c2:20e8 0 5 14541597 
+2400:2410:3f03:b700:1966:8960:dcf5:3cd6 3 45 273787089 20240522223916
+106.133.26.81 2 2 2974 20240519185950
+2a09:bac2:43a4:efa::17e:10c 7 8 69394 20240511233617
+2001:df0:eb:c200:7893:5949:17ee:c25d 2 2 4138 20240509133427
+2a09:bac2:43a6:efa::17e:d1 6 7 72065 20240513231359
+2400:4051:a1c0:5700:e961:180b:2988:533c 1 30 106846458 20240526204036
+57.129.0.143 1 1 20851 20240524085018
+2a09:bac2:43a1:efa::17e:10e 2 2 5606 20240511231345
+65.154.226.171 2 12 505240 20240529231523
+2400:2200:462:ce30:e524:4d51:5182:7121 4 13 8184928 20240530123921
+49.109.144.10 0 4 44179335 
+2001:df0:eb:406e:295f:5a3c:e74b:61c 1 17 48714469 20240527191410
+240a:61:1ca0:192b:c0b2:13d3:33cc:b2e 1 27 89467022 20240527002240
+2001:2f8:200:20:29cf:3303:e3bb:2829 1 19 7753394 20240531120908
+2400:2200:5ec:77c0:140f:32ee:313:1558 2 7 255993 20240518104828
+2a09:bac3:43a0:efa::17e:e0 2 2 9570 20240513041827
+2a09:bac2:43a6:efa::17e:fb 1 9 31666671 20240516002701
+2407:c800:7a12:152:4d97:2ecd:90d3:2b56 0 66 512066100 
+240a:61:3170:1c86:2d63:ebde:a883:b8a1 2 5 183735 20240518155233
+2400:2411:c0:2f00:7812:55:36af:cd94 0 4 34806559 
+2001:268:9804:d85e:2dc3:4ff1:d4ed:e6c6 1 6 253122 20240524114237
+2a09:bac3:44bc:174b::252:1a 1 1 2974 20240521171937
+2001:268:981a:78d9:9d13:6983:1c5:1ab2 2 7 253799 20240513224025
+2001:2f8:200:20:44a0:5193:6fa3:e9cc 1 1 2974 20240520092220
+240a:61:3c2c:7913:b8c2:dd4b:1d97:55ce 1 9 25426908 20240513221425
+240a:61:4c94:4b00:3041:d70d:5c5d:1952 3 18 757986 20240513233557
+2400:4051:5c2:3200:9462:1ad9:9d09:4f4e 1 36 56652672 20240526221054
+2001:2f8:200:20:c175:b2cd:33b2:e876 1 14 67349630 20240527115157
+2400:2200:4e2:f1d9:a912:65ff:5f0c:869b 1 22 55340763 20240529082526
+49.98.209.34 3 6 11313 20240523110355
+240b:11:5660:1000:319b:2c4c:f6f2:825b 1 6 252662 20240513225734
+2400:4050:3882:400:2145:7048:a52f:721b 3 6 6692535 20240523015255
+51.161.115.226 1 1 5346 20240516002637
+2400:4050:3882:400:a880:23b5:3d:2a6f 4 18 88785451 20240508030829
+2a09:bac2:43a1:e82::172:f 1 6 252565 20240512001658
+2001:df0:eb:406e:295e:8216:3a04:b697 1 6 252662 20240514091002
+2a09:bac2:43a5:efa::17e:f5 1 1 3077 20240525130202
+2a09:bac2:43a6:efa::17e:107 1 1 2869 20240515015350
+133.106.164.145 1 7 8453424 20240527113013
+2a09:bac3:44bf:174b::252:14 1 1 2974 20240521165605
+2a02:26f7:b9a4:6006:0:a83a:30f0:a6fa 1 1 3687 20240528113048
+1.21.51.7 23 286 800350089 20240528192558
+240a:61:12c0:5fe5:b0f3:17a5:bb9c:9742 3 189 852897609 20240523135606
+240a:61:3c80:9b5a:fdcd:a47f:12f7:7a9a 1 6 253732 20240526212239
+2400:2200:640:e97c:e4fc:7c23:5edd:57ce 2 136 359279897 20240527071637
+2a09:bac2:43a7:dc::16:197 1 1 0 20240513232929
+2a09:bac2:43a6:dc::16:1e4 1 4 10168177 20240530232824
+2001:df0:eb:406e:94fd:417f:36a8:8877 0 6 45659994 
+152.39.235.187 1 6 251862 20240507113424
+2400:4051:5863:9200:2c19:dcf1:2afd:7087 1 10 25419941 20240529152752
+2a09:bac3:43a6:efa::17e:f2 2 2 5457 20240517021254
+240b:11:3aa0:a800:1d6:fbcb:670e:74d3 1 16 753109 20240519013427
+2a09:bac2:43a1:dc::16:188 2 3 805 20240531114354
+175.177.43.21 3 18 759078 20240522211449
+52.58.51.176 1 1 2551 20240507135722
+2400:2200:403:ac8b:b8c3:46e3:bf71:9d 1 6 253305 20240524100911
+2001:268:721e:51d3:816b:d733:ddd0:c531 3 10 420809 20240513222546
+2a09:bac3:43a1:dc::16:205 1 1 0 20240514012539
+2001:268:989e:4145:f51e:61c6:2979:663a 2 2 5948 20240521142326
+240a:6b:4a3:1050:b8da:2eeb:36a0:5fc0 2 2 0 20240509104011
+2a09:bac3:43a5:dc::16:164 1 1 2617 20240513223136
+2400:2411:c81:f600:a4fa:1de9:3a6d:5541 1 6 252455 20240514203952
+134.209.179.125 1 1 4212 20240527135300
+2400:4051:5c2:3200:c5c0:7bc8:b076:1c5a 1 6 252662 20240513222107
+2400:2411:c0:2f00:70c7:c4be:bfb0:e3f3 0 12 106054304 
+2a09:bac3:43a1:efa::17e:19 0 18 122712986 
+2400:4050:3882:400:4c62:b9d1:f671:99ea 0 3 31060842 
+2001:f70:84c0:1900:183d:2c29:b418:7826 2 4 157113 20240504231826
+2a09:bac2:43a7:efa::17e:1d 6 6 8857 20240512151100
+106.146.23.174 0 1 826477 
+60.67.155.37 1 9 7963228 20240520002256
+2a09:bac3:43a6:efa::17e:9d 3 3 5847 20240512010935
+2001:df0:eb:406e:349a:d69c:8189:b14d 18 108 439340331 20240522190452
+2001:df2:c900:2411:4ba1:c61d:2181:ec04 1 6 252242 20240510144517
+240b:c010:4b4:1cf1:3d8b:f446:324b:75b0 0 14 44045149 
+2400:4050:3882:400:6135:4afe:58cd:e497 2 7 257058 20240522031142
+122.215.85.182 12 140 720126633 20240531170234
+240b:11:3aa0:a800:f07d:cdf8:323b:f478 0 4 12483812 
+240a:61:1c18:71f2:255c:7c91:4395:394c 1 1 2617 20240513222054
+240b:c010:4c1:52c6:6456:6118:29ac:6507 3 72 229870563 20240522152147
+104.166.80.222 1 1 3453 20240514014528
+2001:df0:eb:406e:79b4:72d8:d41:ec5c 0 3 27582930 
+2001:268:7234:ba1b:99d0:fc9d:5416:bf54 2 96 355172110 20240529163810
+240b:10:2d20:3700:98c:eb53:4dc1:669b 3 13 507941 20240513231811
+175.177.48.36 1 10 25099408 20240514091112
+2400:2411:c0:2f00:984:aee:b8ad:9640 1 12 40167548 20240531222900
+2001:268:98b9:c4d2:e823:6a57:652:e343 1 6 253276 20240531080518
+150.66.92.57 1 1 2869 20240515150639
+2001:df0:eb:406e:9809:bed4:3452:ec7c 1 6 255892 20240531202325
+2407:c800:2f31:130:89c4:d35c:8522:3602 2 45 113213093 20240531112111
+192.142.227.23 1 1 2551 20240507112530
+2a09:bac2:43a0:dc::16:1b5 3 3 2520 20240512003013
+2400:2411:c0:2f00:b813:b33d:1c09:8eea 3 13 507941 20240513222040
+2406:da18:85:1401:e114:4ed7:618b:77ac 1 1 339 20240508221137
+2001:df0:eb:81b2:b4c7:74cc:71b8:dc1f 4 11 46580486 20240517113900
+2400:2200:5a5:937f:b8a2:cfd9:c606:4264 1 38 125481342 20240524221605
+2400:4050:2d22:f600:e1ba:a1b:61ae:6ab 2 21 73514198 20240527072741
+49.97.72.124 4 14 508252 20240514002008
+126.205.208.81 2 28 160295590 20240527135712
+2001:268:989e:70e5:614a:8c55:b197:31b6 0 13 50718108 
+2001:268:98aa:d33d:415e:327d:8e82:3e32 1 24 116136492 20240514184712
+2a09:bac3:43a1:efa::17e:1b 4 12 18577109 20240516002907
+2001:df0:eb:81b2:4943:d08e:36a0:c83d 1 71 374694330 20240527154756
+2001:df0:eb:81b2:596b:bb2c:3f73:aef7 3 10 2170936 20240524113941
+14.14.141.236 3 48 257047672 20240527064510
+2001:268:7235:fe3d:302e:a89f:a180:9660 2 13 106853890 20240531202429
+101.111.181.70 1 9 44620099 20240526211852
+38.132.193.171 1 6 254950 20240507112712
+2a09:bac2:43a1:dc::16:17d 3 284 406618846 20240530214945
+2a09:bac2:43a6:efa::17e:8c 1 1 0 20240512014942
+2a09:bac3:43a2:efa::17e:96 1 3 154307 20240526002551
+18.119.136.39 1 6 254950 20240507135447
+2400:2200:462:c7d9:9935:117c:f488:4649 0 1 411 
+2001:df0:eb:406e:a9eb:4176:121d:d28d 1 6 252662 20240513111339
+5.255.91.93 0 1 1444 
+106.146.26.139 1 12 68429240 20240524120846
+240b:c010:4c5:958:0:2a:6e43:5101 1 8 1790067 20240513221157
+2a09:bac3:43a6:efa::17e:fa 1 1 2974 20240519010313
+2a09:bac3:43a0:efa::17e:ff 9 20 98696114 20240518190944
+2a09:bac3:43a1:efa::17e:116 4 7 25307862 20240511234344
+2a09:bac3:43a7:efa::17e:77 1 2 4098 20240527130900
+240a:6b:8a8:9ba:887e:bdce:12bf:bec2 3 36 126624510 20240522173317
+106.133.85.181 0 5 8219995 
+106.146.31.89 2 16 24477078 20240524142819
+183.86.128.171 1 65 289888364 20240513223109
+240a:61:3231:4dc:5019:9648:6840:bab8 1 22 91499157 20240527191318
+2001:df0:eb:406e:8a4:c2e5:e8e1:7378 1 1 2974 20240519122122
+2a09:bac2:43a6:efa::17e:7d 1 9 22834213 20240501154256
+133.201.68.64 4 9 261304 20240513224310
+2001:2f8:200:20:d91c:2cb5:4dd9:fd4f 0 5 940826 
+106.133.20.98 0 1 2770299 
+2600:1f14:804:fd02:5055:88eb:b3a3:16f9 2 2 656 20240508221142
+2400:4051:5003:c200:ced:a8e2:ca86:72ca 1 9 32278103 20240528164618
+240d:1a:94b:5200:e85e:ee08:263b:8a70 0 4 37389054 
+2400:2200:395:8733:b0bc:4c0f:536c:35b6 1 6 253378 20240529221622
+2400:2411:c81:f600:fd40:c8e1:9783:981a 3 9 317120 20240516214302
+126.166.140.249 0 1 262000 
+2a09:bac3:43a6:dc::16:1d8 9 30 191367489 20240524030024
+2400:4050:3341:2700:e82e:f69c:d5db:9d5 0 2 1048002 
+2a09:bac2:43a1:dc::16:1e4 1 1 2834 20240512005118
+240a:61:3171:22ce:2c5b:7eab:8859:1575 3 52 50992842 20240530110312
+2001:268:9887:d0cf:5d8e:43dd:569d:8786 1 1 2974 20240518150357
+240b:11:3aa0:a800:a9b2:f465:b8:1b8e 6 75 235453326 20240523020542
+2a09:bac2:43a6:dc::16:1b3 1 1 0 20240513022115
+240b:11:9fe0:5c10:2480:43c5:a81a:6fe7 1 6 253732 20240526204531
+2400:4050:2501:8600:255c:c61c:958:606 1 6 252662 20240513045958
+65.154.226.170 1 6 253378 20240529233601
+2001:268:98b8:4e39:98c2:fdc8:b0a1:d436 3 48 279188208 20240523084316
+240b:11:3aa0:a800:c1be:a7c5:a2ac:c69f 4 76 329015916 20240530172050
+2a09:bac3:43a7:dc::16:208 1 1 2430 20240510231831
+2a09:bac3:43a7:efa::17e:d 1 1 2617 20240513114516
+240a:61:1151:38d:d500:7350:500b:92a 0 1 786000 
+65.154.226.168 1 6 254950 20240507111936
+2a04:4e41:29:b::68bc:f811 1 1 3297 20240518020023
+221.114.7.33 2 7 253592 20240515002143
+240b:11:3aa0:a800:b8a4:44bd:736e:b010 1 6 149139 20240518103657
+2a09:bac3:43a6:efa::17e:ea 3 3 9780 20240524013809
+2400:4052:300:5810:dce2:3fd9:3450:4d5c 3 8 257084 20240509235918
+2a09:bac2:43a6:dc::16:167 1 1 0 20240509215201
+2a09:bac3:43a6:efa::17e:9b 1 1 0 20240512205216
+2a09:bac2:43a1:efa::17e:11b 2 7 253799 20240513111501
+122.210.140.81 3 17 668683 20240526203931
+2a09:bac3:43a1:efa::17e:96 1 1 3333 20240526212621
+2400:4050:2aa0:d600:9441:4733:a62e:b8d5 1 6 252662 20240513221309
+2001:df0:eb:406e:8112:f8c5:f7c1:8a64 1 6 253276 20240531091831
+106.133.83.190 1 1 2974 20240520172015
+2001:268:7204:a417:4d96:23ad:bf54:104c 0 16 49824456 
+240b:10:2d20:3700:59fc:1e8e:6900:d21a 3 57 166684341 20240522161141
+2001:df0:eb:81b2:551a:d31d:b741:72f0 1 27 394498564 20240524123339
+2001:df0:eb:406e:3508:3eaf:eeaf:538d 0 54 221771400 
+110.173.252.239 1 1 3231 20240531081131
+2001:df0:eb:2a00:ccab:1525:4bb9:f85b 1 28 32481169 20240530141915
+111.217.53.65 5 72 249926586 20240526205727
+2001:df0:eb:406e:9c7:a0df:ec24:f153 1 6 255087 20240531200723
+2001:2f8:200:20:c5c5:5336:4f40:6a53 9 24 40048200 20240524190745
+2400:2410:2b80:1800:558d:a7ed:c882:660a 4 14 27159421 20240513222056
+2001:df0:eb:81b2:2c79:d5d7:fe26:c5c5 0 1 8908072 
+2001:df0:eb:81b2:d04b:19a1:c2aa:726d 6 9 468720 20240523123820
+2001:268:981a:1c64:d1d5:24b0:8e4d:54a2 0 16 63778010 
+116.254.51.102 1 15 77285118 20240526210511
+240d:1a:b2:4800:256b:ad74:8008:fdbd 1 9 957146 20240520230018
+49.97.15.186 1 8 16121572 20240521002454
+2001:268:985e:2e6e:7586:8f13:f10b:1391 1 10 30893382 20240513230130
+2a09:bac2:43a3:dc::16:179 1 35 164994458 20240526155121
+2a09:bac3:44ba:1e14::2ff:11 1 1 2962 20240517172232
+126.53.182.55 1 9 18806171 20240524210812
+2001:df2:c900:2411:bde8:edd4:7c6b:93a4 1 1 2197 20240510114413
+2001:268:98c6:c1fd:f87b:87e6:1cd9:d94c 0 9 33312143 
+115.165.9.30 1 6 252662 20240513232130
+240a:61:3231:44c4:bc71:4ea:3d48:5c4 5 48 205491016 20240526165211
+240a:61:3c80:ab0d:b531:a53d:cded:f11b 1 6 252662 20240513224446
+2400:2410:c4c2:7300:c4a2:6a6a:ca05:1988 1 6 253276 20240531082130
+240a:61:5010:1868:982:80eb:60af:ad41 1 1 0 20240526170417
+66.249.83.130 2 4 158336 20240513224029
+240a:61:32d2:5b8a:143b:9957:e831:c1ef 0 4 35383731 
+2001:268:9891:5b3c:6433:a0e5:5d30:85fc 0 28 100626910 
+240a:61:1020:e3ce:7095:3d8:4519:a3f7 1 3 99309 20240518010457
+2001:2f8:200:20:1942:1157:e350:735b 2 19 21651353 20240527174854
+2a09:bac3:43a1:efa::17e:fe 1 1 2816 20240512000051
+240b:c010:442:973:95c3:31a0:e533:4687 1 1 2974 20240518133808
+118.241.248.236 1 10 18777587 20240524141942
+2407:c800:3f22:71:fde4:b1:9c18:c174 0 3 42797381 
+161.97.104.122 1 1 19532 20240524095749
+2400:4051:5863:9200:7d9b:b310:1f73:2b10 1 6 252662 20240513223432
+2409:10:ca20:900:e023:5b36:cfe9:da1e 6 17 17669977 20240501163621
+2400:4050:3321:6800:d987:5266:dc4f:ea85 1 10 46775181 20240526204628
+2001:268:9861:c9f8:3018:43fc:72c4:31df 1 28 190017499 20240526075700
+2400:2411:c0:2f00:b0bf:105e:4f37:3674 0 15 114634129 
+2001:268:988c:8aa3:d74:b243:37b5:d50a 1 194 506701511 20240527183739
+1.75.153.154 23 453 1071819643 20240520165928
+66.249.82.130 0 1 1404 
+2a09:bac2:43a7:dc::16:22d 1 4 10168240 20240518022044
+2001:2f8:200:20:dc9d:925a:5448:1009 0 7 1048189 
+2400:2200:4c3:e0dc:d027:f839:6c3e:b7b 6 78 318821058 20240522082503
+2400:2200:512:a217:a9c0:c4c0:dd6b:b542 2 7 255590 20240513221306
+2400:4050:3882:400:cdcd:1a60:bb04:1de1 0 10 95152803 
+2600:3000:2710:200::88 1 1 339 20240508221137
+2001:df0:eb:406e:6911:2923:4ce5:4317 1 1 3333 20240527195844
+2404:7a80:8940:b510:15ab:bb1a:a59e:b403 1 1 0 20240511003335
+2a09:bac2:43a6:dc::16:1f1 3 47 269270788 20240515122526
+240b:c010:484:cf45:fdf6:59bc:aba2:55e8 0 7 38916936 
+133.106.189.198 0 9 75433641 
+240b:11:43a1:600:9161:b8d2:1bbe:fa5b 7 15 448495 20240514082725
+240a:61:3231:44c4:6de6:35bf:5d1e:785c 1 3 156536 20240525184818
+150.249.219.190 1 22 134003246 20240526211831
+126.156.46.210 0 2 5217484 
+2001:df0:eb:c200:1071:710f:dbc6:711b 1 6 255101 20240508124502
+2400:2200:2e2:9c07:2dfe:4eb8:f643:4b04 1 63 337723712 20240524181806
+240a:61:3171:22ce:d0f2:c9e6:2722:233c 8 57 242096341 20240527152357
+2a09:bac2:43a1:dc::16:162 1 1 2974 20240521153457
+2001:df0:eb:406e:6969:2c3a:9d83:7453 1 1 0 20240520182952
+2a09:bac3:43a6:efa::17e:113 1 13 83436105 20240522005109
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20240501 12 46 104980049 5
+20240504 2 4 157113 1
+20240506 3 10 426000 1
+20240507 19 74 2815660 17
+20240508 49 178 210166311 25
+20240509 32 108 127669759 15
+20240510 21 80 312503727 10
+20240511 37 67 96944156 18
+20240512 53 82 160948056 25
+20240513 147 891 1988964070 90
+20240514 73 531 1221417387 45
+20240515 36 286 1049143087 20
+20240516 50 260 774587789 22
+20240517 51 262 685485916 21
+20240518 44 166 420111110 25
+20240519 47 320 671309240 20
+20240520 45 511 1004353519 26
+20240521 26 99 242304614 21
+20240522 232 2989 8877537502 49
+20240523 306 1731 4124958333 78
+20240524 125 994 3831810597 48
+20240525 18 169 309887740 11
+20240526 72 722 2348401146 43
+20240527 59 1881 6637257477 39
+20240528 24 235 1146555264 17
+20240529 52 914 3164478147 22
+20240530 109 1411 5356418250 31
+20240531 54 681 2031415515 34
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 20
+30mn-1h 17
+5mn-15mn 32
+0s-30s 636
+2mn-5mn 21
+30s-2mn 50
+1h+ 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/ 1298 3272862 728 689
+/HOME.html 126 117119 18 16
+/last_2023.html 50 210811 1 19
+/mid_2023.html 38 194667 5 14
+/Honban.html 35 171458 7 19
+/wagnerkey/keylist.php 21 76893 4 6
+/2018kouki.html 17 65195 0 1
+/2019zenki.html 17 51360 0 7
+/2017.html 15 141750 1 0
+/2022kouki.html 15 50625 1 4
+/orien2018.html 2 3971 0 0
+/2014.html 11 12833 0 2
+/.well-known/acme-challenge/Htd8WP1vNz8cOgo7uWkjl8jB51p4J9A7QBuCZ1TaN9g 5 1662 3 5
+/2019haru.html 10 15380 0 0
+/2016.html 11 89309 0 1
+/2022tyuki.html 8 23552 0 2
+/2021tyuki.html 6 26754 0 0
+/first_2023.html 9 33606 0 1
+/2015.html 8 9680 0 1
+/zenki2018.html 12 29667 0 1
+/2020kouki.html 10 21840 0 1
+/2019tyuki.html 15 68475 3 1
+/2021kouki.html 10 16710 0 2
+/2019orien.html 4 5964 1 0
+/2021zenki.html 11 26761 2 3
+/2019kouki.html 15 54645 0 1
+/chuki2018.html 11 46220 0 2
+/.well-known/acme-challenge/1G78T6U799FII_3N-Eej0WDXDoMo5z6vO4_LQd097nE 5 1662 5 3
+/2022zenki.html 3 9255 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+0-44 2778
+500-1K 1218
+1K-2K 1236
+100-500 8329
+5K+ 10482
+2K-5K 1552
+END_FILESIZE

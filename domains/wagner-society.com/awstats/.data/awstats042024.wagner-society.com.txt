@@ -1,0 +1,403 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/wagnersociety/domains/wagner-society.com/awstats/.data/awstats.wagner-society.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2153                
+POS_TIME 2836                
+POS_VISITOR 8639                
+POS_DAY 11330               
+POS_DOMAIN 3511                
+POS_LOGIN 3737                
+POS_ROBOT 3892                
+POS_WORMS 4280                
+POS_EMAILSENDER 4411                
+POS_EMAILRECEIVER 4554                
+POS_SESSION 11434               
+POS_FILESIZE 11754               
+POS_SIDER 11593               
+POS_FILETYPES 4689                
+POS_DOWNLOADS 4789                
+POS_OS 4837                
+POS_BROWSER 5056                
+POS_SCREENSIZE 5977                
+POS_UNKNOWNREFERER 6051                
+POS_UNKNOWNREFERERBROWSER 6310                
+POS_ORIGIN 6461                
+POS_SEREFERRALS 6593                
+POS_PAGEREFS 6737                
+POS_SEARCHWORDS 6885                
+POS_KEYWORDS 7037                
+POS_MISC 2499                
+POS_ERRORS 7096                
+POS_CLUSTER 3593                
+POS_SIDER_400 8330                
+POS_SIDER_404 7282                
+POS_SIDER_403 7200                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501010739 292 55275 11490657994835
+FirstTime 20240416025722
+LastTime 20240417110153
+LastUpdate 20240509044422 292 0 291 0 0
+TotalVisits 68                  
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 65                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 78 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 27 35 48293
+1 2 2 1162 16 41 52706
+2 3 3 15159 16 23 21637
+3 1 1 670 48 51 53521
+4 6 6 2574 29 37 39224
+5 1 1 633 16 18 19161
+6 2 2 1303 13 15 12768
+7 1 1 0 11 12 12325
+8 0 0 0 20 20 18725
+9 3 3 2010 34 45 44366
+10 33 33 29765 74 92 84034
+11 7 7 3244 70 76 52114
+12 3 3 2010 60 73 62526
+13 1 1 670 42 54 54707
+14 0 0 0 26 32 30560
+15 0 0 0 48 56 55009
+16 1 1 633 44 56 56754
+17 1 1 670 24 25 22606
+18 2 2 858 58 87 87729
+19 5 5 2984 42 46 55574
+20 1 1 670 50 82 83178
+21 2 2 1340 34 34 33405
+22 2 2 1340 22 27 28740
+23 6 6 4020 13 15 13062
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 83 83 71715
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 22 23382 20240416125933 0
+python 8 5360 20240417103225 0
+curl 4 1148 20240416103159 0
+Go\-http\-client/ 4 752 20240416113634 0
+Apache\-HttpClient/ 2 1340 20240417093627 0
+no_user_agent 2 984 20240417104029 0
+MSIE[\x20]6 1 14034 20240415193433 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 78 70053 0 0
+Unknown 5 1662 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+android10 3 3
+macosx9 4 4
+ios_iphone 7 7
+win10 27 27
+win8 1 1
+Unknown 7 7
+win8.1 1 1
+macosx15 10 10
+win7 3 3
+linux 18 18
+linuxubuntu 1 1
+androidoreo 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+chrome120.0.0.0 1 1
+firefox124.0 2 2
+chrome68.0.3440.106 3 3
+chrome78.0.3904.108 2 2
+chrome83.0.4103.61 1 1
+chrome35.0.1916.47 3 3
+chrome116.0.0.0 3 3
+chrome107.0.0.0 2 2
+chrome33.0.1750.152 1 1
+chrome114.0.0.0 1 1
+chrome123.0.0.0 2 2
+chrome74.0.3729.169 1 1
+firefox122.0 1 1
+safari13.0.3 3 3
+firefox60.9 1 1
+chrome121.0.0.0 2 2
+chrome11.0.1245.0 1 1
+chrome110.0.0.0 1 1
+chrome79.0.3945.130 2 2
+chrome57.0.2987.132 1 1
+chrome66.0.3359.181 1 1
+safari17.4.1 2 2
+firefox77.0 2 2
+chrome74.0.3862.88 1 1
+chrome117.0.0.0 6 6
+chrome122.0.0.0 6 6
+chrome83.0.4103.97 3 3
+chrome92.0.4515.159 1 1
+mozilla 6 6
+chrome117.0.5938.132 1 1
+firefox83.0 1 1
+Unknown 2 2
+chrome79.0.3945.79 1 1
+edge12 2 2
+firefox120.0 1 1
+chrome63.0.3239.84 1 1
+safari 2 2
+chrome119.0.0.0 1 1
+chrome84.0.4147.105 1 1
+chrome108.0.0.0 3 3
+chrome11.0.696.71 2 2
+chrome121.0.6167.160 1 1
+chrome94.0.4606.61 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240416103155
+Hatena_Antenna/2_(https://a.hatena.ne.jp/help;_alpha) 20240416075114
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Hatena_Antenna/2_(https://a.hatena.ne.jp/help;_alpha) 20240416075114
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 77 77
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6 6
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 48 76493
+301 858 841158
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+//website/wp-includes/wlwmanifest.xml 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/favicon.png 6 -
+/fGcfiEkyfEH 1 https://wagner-society.com/
+/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f 12 https://wagner-society.com/
+//site/wp-includes/wlwmanifest.xml 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 7 -
+//test/wp-includes/wlwmanifest.xml 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/NTIWzNENJ 1 https://wagner-society.com/
+/humans.txt 1 http://wagner-society.com/humans.txt
+//sito/wp-includes/wlwmanifest.xml 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+//news/wp-includes/wlwmanifest.xml 1 -
+//wp-includes/wlwmanifest.xml 1 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+//xmlrpc.php 1 -
+/ads.txt 2 http://wagner-society.com/ads.txt
+//blog/wp-includes/wlwmanifest.xml 1 -
+END_SIDER_404
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 65
+54.247.57.72 3 3 1528 20240416111727
+149.56.15.153 3 3 1644 20240416192412
+18.237.137.147 2 2 1340 20240417041240
+2001:df2:c900:231a:bd56:e858:1877:716 2 2 14044 20240416103241
+23.229.104.2 2 2 1340 20240417092339
+154.28.229.226 2 2 1340 20240416103230
+2a02:26f7:b990:4000:919c:128c:f08e:6157 2 2 982 20240416102543
+205.169.39.251 2 2 858 20240416113850
+54.249.44.51 2 2 13819 20240416075114
+34.174.177.84 2 2 1162 20240417010524
+45.139.64.161 1 1 670 20240416123126
+176.53.218.26 1 1 670 20240417110153
+154.47.20.51 1 1 633 20240416103330
+18.188.125.46 1 1 188 20240416181640
+176.53.223.61 1 1 670 20240416200504
+2001:df2:c900:231a:89a4:a3eb:4407:a84c 1 1 188 20240416104538
+184.72.244.125 1 1 670 20240416233705
+135.148.195.3 1 1 670 20240416210035
+2600:1f16:269:da02:d6f1:b32a:3fd:43d1 1 1 328 20240416103154
+45.192.147.128 1 1 670 20240416125909
+3.238.227.74 1 1 670 20240416231954
+2600:1f14:804:fd00:6585:4945:d1d0:36d0 1 1 328 20240416103154
+35.88.2.189 1 1 188 20240417043109
+44.222.197.9 1 1 670 20240416233703
+50.16.159.241 1 1 670 20240416104711
+2a05:d016:39f:3102:5786:c454:9842:f353 1 1 328 20240416103155
+8.134.49.243 1 1 670 20240416192705
+146.70.166.186 1 1 670 20240416103325
+178.128.44.105 1 1 670 20240417102233
+34.208.238.10 1 1 188 20240417043112
+47.242.224.70 1 1 670 20240416183242
+35.94.136.61 1 1 188 20240417043100
+170.106.104.42 1 1 670 20240417060827
+154.28.229.35 1 1 670 20240416103226
+100.24.42.47 1 1 670 20240417093634
+104.166.80.100 1 1 670 20240416125214
+123.60.68.42 1 1 670 20240417023649
+154.28.229.7 1 1 670 20240416103304
+104.244.209.78 1 1 633 20240416103331
+119.12.203.25 1 1 188 20240416103534
+104.164.173.14 1 1 670 20240416103215
+143.244.40.241 1 1 633 20240417105549
+65.154.226.170 1 1 188 20240416103242
+104.164.173.152 2 2 1340 20240416103219
+104.164.173.129 2 2 1340 20240416103309
+195.211.77.142 2 2 1340 20240416230734
+93.158.91.243 1 1 633 20240416163326
+50.19.129.227 1 1 670 20240416230548
+34.215.125.166 1 1 670 20240417043057
+159.203.118.28 1 1 670 20240416192050
+2406:da18:85:1401:2547:a05a:7330:b1f 1 1 339 20240416103154
+100.21.218.158 1 1 188 20240416113635
+18.213.107.7 1 1 670 20240417025830
+34.123.170.104 1 1 188 20240416103239
+2600:3000:2710:200::85 1 1 339 20240416103154
+2a01:4f9:c012:6365::1 2 2 1340 20240416103309
+13.82.54.38 2 2 1266 20240417060127
+213.188.80.145 1 1 188 20240416103536
+3.236.159.184 1 1 670 20240416225306
+133.242.174.119 1 1 670 20240416133750
+34.79.174.58 1 1 670 20240416221047
+136.143.176.60 1 1 670 20240417035659
+171.244.43.14 1 1 670 20240416230229
+43.135.181.13 2 2 1340 20240416210424
+44.227.127.2 1 1 188 20240416104917
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20240416 63 63 60050 52
+20240417 20 20 11665 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 66
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 78 70053 63 63
+/.well-known/acme-challenge/cwcahK66GTDbkbmaP4nfGZrTK-7qPLUkbppkumg6LTk 5 1662 5 5
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+0-44 3
+1K-2K 480
+5K+ 4
+100-500 105
+500-1K 543
+END_FILESIZE

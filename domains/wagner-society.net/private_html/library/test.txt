@@ -1,0 +1,262 @@
+I	001	茨木暢仁	Ibaraki		If you say so...名	曲名英語	出版社	演奏形態	complete	パート	貸し出し	備考
+A	001	アンダーソン	Anderson	そりすべり	Sleigh Ride	International	F.O.	○		日吉	
+A	002	アンダーソン	Anderson	ワルツィング・キャット	The Waltzing Cat	International	F.O.	×	スコアなし		
+A	003	アンダーソン	Anderson	フィドル・ファドル	Fiddle-Faddle	International	F.O.	×	Cl1なし		
+A	004	アンダーソン	Anderson	トランペット吹きの子守歌	A Trumpeter's Lullaby	International	F.O.	×	スコアなし		
+A	005	アンダーソン	Anderson	ジャズ・ピチカート	Jazz Pizzicato	International	F.O.	×	"スコア、Picc、Fl1,2、Ob1なし"		
+A	006	アンダーソン	Anderson	舞踏会の美女	Belle of the Ball	International	F.O.	×	"Alto sax1,2、Tenor saxなし"		
+A	007	アンダーソン	Anderson	タイプライター	The Typewriter	International	F.O.	×	スコアなし		
+A	008	アンダーソン	Anderson	トランペット吹きの休日	Bugler's Holiday	International	F.O.	○		日吉	
+A		アンダーソン	Anderson	シンコペイテッド・クロック	The Syncopated Clock		F.O.	○			
+A		芥川也寸志	Akutagawa	交響三章	Trinita Sinfonica		F.O.	○			
+A		芥川也寸志	Akutagawa	交響管絃楽のための音楽			F.O.				
+B	001	バッハ、ヨハン・クリスチャン	Bach（J.C.）	シンフォニア	Synfonia	Peters	Strings	×	スコア、Vaなし		
+B	002	バッハ、ヨハン・セバスチャン	Bach（J.S.）	ブランデンブルグ協奏曲第3番	Brandenburg Concert	Broude Brothers	Strings	○			
+B	003	バッハ、ヨハン・セバスチャン	Bach（J.S.）	G線上のアリア	Air	不明	Strings	×	スコアのみ		
+B	004	バッハ、ヨハン・セバスチャン	Bach（J.S.）	ヴァイオリン協奏曲 イ短調	Violin Concert a-moll	Breitkopf&Haertels	F.O.	○			
+B	005	バッハ、ヨハン・セバスチャン	Bach（J.S.）	カンタータNｒ１４７「心と口と行いと生活をもって」	Cantata Nr147	手書き	F.O.	○			
+B	006	バッハ、ヨハン・セバスチャン	Bach（J.S.）	序曲第1番　ハ長調	Ouverture Nr1 C-Dur	Breitkopf&Haertels	F.O.	○			
+B	007	バーバー	Barber	序曲「悪口学校」	"Overture to ""The School for Scandal"""	International	F.O.	○			
+B	008	バルトーク	Bartok	舞踏組曲		Universal-Edition	F.O.	×	"スコア、Cl1,2、BCl、Fg2(CFg)、Hr1-4、Tp1,2、Trb1,2、Tub、Timpなし"		
+B	009	ベートーヴェン	Beethoven	交響曲第1番	Symphony No.1	Breitkopf&Haertels	F.O.	○			
+B	010	ベートーヴェン	Beethoven	交響曲第2番　ニ長調	Symphony No.2 D-Dur	Breitkopf&Haertels	F.O.	○			
+B	011	ベートーヴェン	Beethoven	交響曲第3番　「エロイカ」	"Symphony No.3 ""Eroica"""	Baerenreiter	F.O.	○			
+B	012	ベートーヴェン	Beethoven	交響曲第4番	Symphony No.4	Breitkopf&Haertels	F.O.	○			
+B	040	ベートーヴェン	Beethoven	交響曲第5番「運命」	Symphony No5	Breitkopf&Haertels	F.O.	○			
+B	013	ベートーヴェン	Beethoven	交響曲第8番	Symphony No.8	Breitkopf&Haertels	F.O.	○			
+B	014	ベートーヴェン	Beethoven	交響曲第9番	Symphony No.9	Breitkopf&Haertels	F.O.	○			
+B	015	ベートーヴェン	Beethoven	交響曲第9番	Symphony No.9	Baerenreiter	F.O.	○			
+B	016	ベートーヴェン	Beethoven	ピアノ協奏曲第3番	Piano Concert No3	Breitkopf&Haertels	F.O.	×	Vaなし		
+B	017	ベートーヴェン	Beethoven	ピアノ協奏曲第4番	Piano Concert No4	Breitkopf&Haertels	F.O.	○			
+B	018	ベートーヴェン	Beethoven	ピアノ協奏曲第5番　「皇帝」	Piano Concert No5	Breitkopf&Haertels	F.O.	○			
+B	019	ベートーヴェン	Beethoven	ピアノ協奏曲第5番　「皇帝」	Piano Concert No5	Baerenreiter	F.O.	○			
+B	020	ベートーヴェン	Beethoven	ヴァイオリン協奏曲	Violin Concert	Breitkopf&Haertels	F.O.	×	スコアなし		
+B	021	ベートーヴェン	Beethoven	トリプル協奏曲（Pf.Vn.Vc）		Breitkopf&Haertels	F.O.	×	"Vn1,2なし"		
+B	022	ベートーヴェン	Beethoven	"ロマンス(Op40,50)"	Romanze	Breitkopf&Haertels	F.O.	×	スコアなし		
+B	023	ベートーヴェン	Beethoven	序曲「コリオラン」	Overture Coriolan	Breitkopf&Haertels	F.O.	○			
+B	024	ベートーヴェン	Beethoven	序曲「エグモント」	"Overture zu Goethes Trauerspiel""Egmont"""	Breitkopf&Haertels	F.O.	○		日吉	
+B	025	ベートーヴェン	Beethoven	序曲「プロメテウスの創造」	Overture Die Geschopfe des Prometheus	Breitkopf&Haertels	F.O.	×	スコアなし	日吉	
+B	026	ベートーヴェン	Beethoven	ピアノ･合唱･管弦楽のための幻想曲	"Chor Phantasie fur Pianoforte,Chor und Orchester"	手書き	F.O.	×	スコアなし		
+B	027	ベルリオーズ	Berlioz	幻想交響曲	Symphony Fantastique	Breitkopf&Haertels	F.O.	○	スコアなし(B027orB028?) →紛失後発見！！		
+B	028	ベルリオーズ	Berlioz	幻想交響曲	Symphony Fantastique	Baerenreiter	F.O.	○	スコアなし(B027orB028?)		
+B	029	ベルリオーズ	Berlioz	序曲「海賊」	Overture　Le Corsaire	Kalmus	F.O.	○			
+B	030	ベルリオーズ	Berlioz	ローマの謝肉祭	Romischer Carneval	Breitkopf&Haertels	F.O.	○			
+B	031	ベルリオーズ	Berlioz	ハンガリア行進曲（ファウストの劫罰より）	Hungarian March	Boosey&Hawkes	F.O.	×	Fg1なし		
+B	032	バーンスタイン	Bernstein	序曲「キャンディード」	Overture Candide	Boosey&Hawkes	F.O.	○			
+B	033	バーンスタイン	Bernstein	ウェストサイド物語より「プロローグ」	Prolog from West Side Story	手書き	F.O.	×	スコアなし	日吉	
+B	034	バーンスタイン	Bernstein	ウェストサイド物語より「トゥナイト」	Tonight from West Side Story	手書き	F.O.	×	スコアなし		
+B	035	バーンスタイン	Bernstein	ウェストサイド物語より「マリア」	Maria from West Side Story	手書き	F.O.	×	スコアなし		すこあBreitkopf
+B	036	ビゼー	Bizet	カルメン第1組曲	Carmen Orchestra suite No1	Baerenreiter	F.O.	○			Boosey & Hawkesも混ざっている
+B	037	ビゼー	Bizet	カルメン第2組曲	Carmen Orchestra suite No2	Baerenreiter	F.O.	×	"スコア、Vn1,2、Vc、Cbなし"	日吉	
+B	038	ビゼー	Bizet	アルルの女第1組曲	L'Arlesienne Orchestra suite No1	Baerenreiter	F.O.	○			
+B	039	ビゼー	Bizet	アルルの女第2組曲	L'Arlesienne Orchestra suite No2	Breitkopf&Haertels	F.O.	○			
+B	041	ブラームス	Brahms	交響曲第2番	Symphony No.2	Baerenreiter	F.O.	○			
+B	042	ブラームス	Brahms	交響曲第3番	Symphony No.3 	Breitkopf&Haertels	F.O.	○		日吉	
+B	043	ブラームス	Brahms	悲劇的序曲	Tragische Ouverture	Breitkopf&Haertels	F.O.	○			Fg2(CFg)スコア切り貼り
+B	044	ブラームス	Brahms	ハンガリー舞曲第1番	Hungarian Dance No.1	Breitkopf&Haertels	F.O.	○			
+B	045	ブラームス	Brahms	ハンガリー舞曲第5番	Hungarian Dance No.5		F.O.	×	スコアのみ		
+B	046	ブラームス	Brahms	ハンガリー舞曲第6番	Hungarian Dance No.6	Breitkopf&Haertels	F.O.	○			
+B	047	ブラームス	Brahms	ハンガリー舞曲第7番	Hungarian Dance No.7	Breitkopf&Haertels	F.O.	×	Picc、CFgなし		
+B	048	ブリテン	Britten	青少年のための管弦楽入門			F.O.	×	スコアのみ		
+B	049	ブルッフ	Bruch	スコットランド幻想曲	Fantasie	Kalmus	F.O.	×	"Fg1,2なし"		
+B	050	ブルックナー	Bruckner	交響曲第4番「ロマンティック」	Symphony No.4	Breitkopf&Haertels	F.O.	×	スコアなし		
+B	051	ブルックナー	Bruckner	交響曲第7番	Symphony No.7	Verlag	F.O.	×	スコアなし		
+B	052	ブルックナー	Bruckner	交響曲第8番	Symphony No.8	Verlag	F.O.	○			
+B		バルトーク	Bartok	管弦楽のための協奏曲	Concert for orchestra		F.O.	×	"スコアp28,70なし"		
+B		ブラームス	Brahms	交響曲第4番	Symphony No.4	Breitkopf&Haertels	F.O.	○			
+B		ブラームス	Brahms	ハイドンの主題による変奏曲	Haydn Variationen		F.O.				
+B		ボロディン	Borodin	序曲「イーゴリ公」	"""Prince Igor"" Overture"		F.O.				
+B		ボロディン	Borodin	交響曲第2番	Symphony No.2		F.O.			日吉	
+B		ベートーヴェン	Beethoven	交響曲第7番	Symphony No.7		F.O.				
+Ｂ		ブラームス（シェーンベルク編）	Brahms	ピアノ４重奏第１番			F.O.				
+C	001	シャブリエ	Chabrier	スペイン狂詩曲	Rapsodie Espana	Hampton	F.O.	○			
+C	002	ショパン	Chopin	ピアノ協奏曲第1番	Piano Concert No.1	Breitkopf&Haertels	F.O.	○			
+C	003	コレルリ	Corelli	クリスマス協奏曲	Christmas Concert	Peters	Strings	○		日吉	
+D	002	ドビュッシー	Debussy	小組曲	Petite　Suite	Durand＆Cie	F.O.	○			
+D	003	ドリーブ	Delibeｓ	コッペリア―ワルツ	Coppelia―Valse	不明	F.O.	○			
+D	004	デュカス	Ducas	ファンファーレ	Fanfare	Durand＆Cie	Brass	○			
+D	005	ドリーブ	Delibes	舞踏組曲「シルビア」	Sylvia	Kalmus	F.O.	○			
+D	006	ドボルザーク	Dvorak	交響曲第7番	Symphony No.7	Kalmus	F.O.	×	スコアなし		
+D	007	ドボルザーク	Dvorak	交響曲第8番	Symphony No.8	Supraphon	F.O.	×	スコアのみ		
+D	008	ドボルザーク	Dvorak	交響曲第9番	Symphony No.9	Kalmus	F.O.	×	"score,Tp1-3,Trb1-3,BTrb"		
+D	009	ドボルザーク	Dvorak	交響曲第9番	Symphony No.9	Breitkopf&Haertels	F.O.	×	"score,Triangle,Cymb."		
+D	010	ドボルザーク	Dvorak	バイオリン協奏曲	Concerto per Violino	Statni hakladotelstvi	F.O.	○			
+D	011	ドボルザーク	Dvorak	チェロ協奏曲	Concert fuer Violoncell	Kalmus	F.O.	○			
+D	012	ドボルザーク	Dvorak	チェロ協奏曲		Kalmus	F.O.	○			
+D	013	ドボルザーク	Dvorak	スタバト・マーテル	Stabat Mater	不明	F.O.	×	弦のみ		
+D	014	ドボルザーク	Dvorak	管楽セレナーデ	Serenade	Musica Rora	F.O.	×	スコアなし		
+D	015	ドボルザーク	Dvorak	スラブ舞曲	Slavonic Dances no.1〜4 Op.46	Kalmus	F.O.	×	１番のみA4型スコア有		
+D	016	ドボルザーク	Dvorak	スラブ舞曲	Slavonic Dances Op.72	Kalmus	F.O.	×	スコアなし		
+D	017	ドボルザーク	Dvorak	スラブ舞曲	"Slavonic Dances Op.46 1,2"	Carl Fischer	F.O.	×	弦５部のみ		
+D	018	ドボルザーク	Dvorak	「謝肉祭」序曲	Karneval Ouvertuere	Supraphon	F.O.	○			
+D	019	ドボルザーク	Dvorak	スラブ舞曲	Slavonic Dance No.8	不明	F.O.	×	Fl2		
+E	001	エルガー	Elgar	威風堂々	Pomp and Circumstance	Kalmus	F.O.	×	スコアなし		
+E	002	エルガー	Elgar	弦楽セレナーデ	Serenade for String Orchestra Op.20	Broude Brothers	F.O.	○			
+E		エルガー	Elgar	エニグマ変奏曲	"""Enigma"""		F.O.	×	スコアなし		
+E		エルガー	Elgar	序曲「コケイン」			F.O.				
+F	001	ファリャ	Falla	三角帽子	The Three Cornered Hat	J&W Chester	F.O.	○			
+F	002	フランク	Franck	ニ短調交響曲	Symphony in D minor	Hawkes & Son	F.O.	○			
+F	003	フシーク	Fucik	凱旋行進曲	Einzug der Gladiatoren-Triumph March	Kalmus	F.O.	×	スコア、Timpなし		
+G	001	ガーシュイン	Gershwin	パリのアメリカ人	An American in Paris	不明	F.O.	○			
+G	002	ガーシュイン	Gershwin	ポーギーとベス抜粋	Porgy & Bess(selection/Summer Time)	不明	F.O.	×	スコア（Summer timeのみ）		
+G	003	グリンカ	Glinka	ルスランとリュドミラ序曲	Russlan and Ludmilla Overture	Kalmus	F.O.	○			
+G	004	グノー	Gounod	ファウスト	"Ballet Music from Gounod's ""Faust"""	不明	F.O.	○	もし使う場合は買い替え必要		
+G	005	グラズノフ	Glazounow	バレエの情景	Scenes du Ballet	Kalmus	F.O.	○			
+G	006	グリーグ	Grieg	ペール・ギュント第二組曲	Peer Gynt Suite II	Kalmus	F.O.	×	スコアはピアノスコアのみ		
+G	007	グリーグ	Grieg	ノルウェー舞曲	Norwegische Tanze I-IV	Kalmus	F.O.	×	スコア、Hr１、Trp２、Timp		
+G	008	グリーグ	Grieg	ホルベルグ組曲	Suite im atten style (Aus Holberg's zeit)	Kalmus	F.O.	○			
+G	009	グールド	Gould	アメリカンシンフォニエッタ２番よりパヴァーヌ	Pavanne from American Symphonette No2 2mvt	Mills	F.O.	×	E.H.なし		
+H	001	ヘンデル	Handel	水上の音楽	Wassermusik(F-dur)	Breitkopf&Haertels	F.O.	×	スコア、Timpなし		
+H	002	ヘンデル	Handel	合奏協奏曲	"Concerti Grossi Op.6,Op.10"	Broude Brothers	F.O.	○			
+H	003	ハイドン	Haydn	交響曲第44番「悲しみ」	Symphony No.44	Doblinger	F.O.	×	スコアなし		
+H	004	ハイドン	Haydn	交響曲第92番	Symphony No.92	不明	F.O.	×	スコア、Trp2なし		
+H	005	ハイドン	Haydn	交響曲第94番「驚愕」	Symphony No.94	Breitkopf&Haertels	F.O.	×	スコア		
+H	006	ハイドン	Haydn	交響曲第103番「太鼓連打」	Symphony No.103	Haydn-Mozart Presse	F.O.	×	スコア、Picc、Cl2、Fg1、Vc、Cb		
+H	007	ハイドン	Haydn	弦楽四重奏曲ヘ長調	Streichquartett F-dur	Doblinger	Quartet	×	スコアなし		
+H	008	ヒンデミット	Hindemith	ウェーバーの主題による交響的変容	Symphony Metamorphosen	Schotts	F.O.	×	スコア、Hr2、Vn2		
+H	009	ホルスト	Holst	"「惑星」組曲より""木星"""	"""Jupiter"" from Suite ""The Planets"""	不明	F.O.	×	スコアなし		
+H	010	オネゲル	Honneger	交響曲第5番「三つのレ」	"Symphony No.5 ""Di Tre Re"""	不明	F.O.	×	スコアのみ		
+H	011	フンパーディンク	Humperdinck	ヘンゼルとグレーテル序曲	"""Prelude"" Hansel and Gretel"	Kalmus	F.O.	×	スコアなし		
+J	001	ヤナーチェク	Janacek	シンフォニエッタ	Sinfonietta	Universal-Edition	F.O.	×	スコア、Cfgなし		
+K	001	カバレフスキー	Kabalevsky	組曲「道化師」	The Comedians	不明	F.O.	×	スコア、Picc、Trp1なし		
+K	002	ハチャトゥリアン	Khachaturian	バレエ「ガイーヌ」より「レジンカ」	"""Lezchinka"" from ""Gayaneh"""	Boosey&Hawkes	F.O.	○	arranged by Harold Perry		
+K	003	ハチャトゥリアン	Khachaturian	バレエ「ガイーヌ」より「ララバイ」	"""Lullaby"" from ""Gayaneh"""	Boosey&Hawkes	F.O.	×	スコアなし		
+K	004	ハチャトゥリアン	Khachaturian	バレエ「ガイーヌ」より「ゴパック」	"""Gopak"" from ""Gayaneh"""	Ansomus Octavo Ed.	F.O.	○	arranged		
+K	005	コダーイ	Kodaly	組曲「ハーリー・ヤノーシュ」	Hary Janes-Suite	Universal-Edition	F.O.	×	"スコア、Fl3、Hr1〜4、Trb1,2、BTrb、Tb、Vc、Cb、Timp"		
+Ｋ		コダーイ	Kodaly	孔雀の主題による　変奏曲			F.O.				
+L	001	リスト	Liszt	交響詩「前奏曲」	Les Preludes	Breitkopf&Haertels	F.O.	×	スコアなし		
+L		レハール	Lehar	金と銀			F.O.	×	スコアなし		
+M	001	マーラー	Mahler	交響曲第１番「巨人」	"Symphony No.1 ""Titan"""	Universal-Edition	F.O.	○			
+M	002	マーラー	Mahler	交響曲第２番「復活」	"Symphony No.2 ""Resurrection"""	Universal-Edition	F.O.	○	"Hr6,Trp3なし→補充"		
+M	003	マーラー	Mahler	交響曲第５番	Symphony No.5	Peters	F.O.	×	BTrbなし		
+M	004	マーラー	Mahler	交響曲第６番「悲劇的」	"Symphony No.6 ""Pathetique"""	Kalmus	F.O.	×	"スコア、Picc、Fl1〜3、Ob1,2、E..H.、Cl1,2、BCl、Fg1,2、CFg、Va"		
+M	005	マーラー	Mahler	交響曲第7番「夜の歌」	"Symphony No.7 ""Nachtmusik"""	Bote&Bock	F.O.	×	"Hp1,2、Guitar、Mandolin、Timp、Percussions"		
+M	006	メンデルスゾーン	Mendelssohn	交響曲第３番「スコットランド」	"Symphony No.3 ""Scottland"""	Breitkopf&Haertels	F.O.	×	スコア、Picc、Fl1		
+M	007	メンデルスゾーン	Mendelssohn	バイオリン協奏曲	Violin Concerto	Eulenberg	F.O.	○			
+M	008	メンデルスゾーン	Mendelssohn	劇音楽「真夏の夜の夢」より序曲	Intermezzo zu Shakespeare's Sommernachtstraum	Breitkopf&Haertels	F.O.	○			
+M	009	メンデルスゾーン	Mendelssohn	劇音楽「真夏の夜の夢」より間奏曲	Ouverture zu Shakespeare's Sommernachtstraum	Breitkopf&Haertels	F.O.	○			
+M	010	メンデルスゾーン	Mendelssohn	劇音楽「真夏の夜の夢」より結婚行進曲	"Hochzeitsmarsch aus Shakespeare's ""Sommernachtstraum"""	Breitkopf&Haertels	F.O.	○			
+M	011	モーツァルト	Mozart	交響曲第25番	Symphony No.25	Breitkopf&Haertels	F.O.	○			
+M	012	モーツァルト	Mozart	交響曲第39番	Symphony No.39	Baerenreiter	F.O.	○	弦はBreitkopf		
+M	013	モーツァルト	Mozart	交響曲第40番	Symphony No.40		F.O.				
+M	014	モーツァルト	Mozart	交響曲第41番「ジュピター」	"Symphony No.41 ""Jupiter"""	Baerenreiter	F.O.	×	スコアなし		
+M	015	モーツァルト	Mozart	交響曲イ長調	Symphony A-Dur	Baerenreiter	F.O.	○			
+M	016	モーツァルト	Mozart	ピアノ協奏曲第26番「戴冠式」	Klavier Konzert No.26	Breitkopf&Haertels	F.O.	×	スコアなし		
+M	017	モーツァルト	Mozart	序曲「後宮からの迷走」	"Overture ""Seraglio"""	Boosey&Hawkes	F.O.	×	スコアなし		
+M	018	モーツァルト	Mozart	序曲「ドン・ジョバンニ」	"Ouverture zur Oper ""Don Juan"""	Kalmus	F.O.	×	"Vn1,2、Timp"		
+M	019	モーツァルト	Mozart	序曲「魔笛」	Die Zauberflote	Breitkopf&Haertels	F.O.	×	スコアなし		
+M	020	モーツァルト	Mozart	モテット「アヴェ・ベルム・コルプス」	"Motette ""Ave Verum Corpus"""	不明	F.O.	○		日吉	
+M	021	モーツァルト	Mozart		Maurerische Trauermusik	Baerenreiter	F.O.	○			
+M	022	モーツァルト	Mozart	セレナーデ第10番	Serenade No.10	不明	F.O.	×	スコア、Cl2、Hr2なし		
+M	023	モーツァルト	Mozart	アイネ・クライネ・ナハトムジーク	Eine Kleine Nachtmusik	Robert King Music.Co.	F.O.	○			
+M	024	モーツァルト	Mozart	アダージォとフーガ	Adagio und Fuge	Breitkopf&Haertels	F.O.	○			
+M	025	モーツァルト	Mozart	アイネ・クライネ・ナハトムジーク	Eine Kleine Nachtmusik	不明	F.O.	×	Vaなし		
+M	026	モーツァルト	Mozart	ディベルティメント第1番KV136	Divertimento KV136	Baerenreiter	F.O.	×	スコア、Vaなし		
+M	027	モーツァルト	Mozart	ディベルティメント第15番KV287	Divertimento KV287	Breitkopf&Haertels	F.O.	×	スコア		
+M	028	モーツァルト	Mozart	ディベルティメントKV334	Divertimento KV334	Breitkopf&Haertels	F.O.	○			
+M	029	モーツァルト	Mozart	弦楽四重奏曲第5、6、7番	Streichquartett No.5〜7 KV158〜160	Hartus Musicus	Quartet	○			
+M	030	モンティ	Monti	チャルダーシュ	Czardas	Kalmus	F.O.	○			
+M	031	ムソルグスキー	Moussorgsky	禿山の一夜	Une Nuit sur le Mont chauve	Kalmus	F.O.	×	スコアなし		
+M	032	モーツァルト	Mozart	ピアノ協奏曲	Piano Concert No.23	Baerenreiter	F.O.	○			
+M		マゼール	Maazel		"A PEARL, A GIRL for orchestra"		F.O.	×	"Ob1,2のみ"		
+Ｍ		ブラームス	Brahms	バイオリン協奏曲			F.O.				
+Ｍ		マーラー	Mahler	交響曲第10番（原典版）		ＵＥ	F.O.				
+N	001	ニコライ	Nicolai	序曲「ウィンザーの陽気な女房たち」	"Ouverture zur Oper ""Die Weiber von Windsor"""	Breitkopf&Haertels	F.O.	○		日吉	
+O	001	オッフェンバック	Offenbach	序曲「天国と地獄」			F.O.				
+P	001	ポンキエリ	Ponchielli	時の踊り	Dance of the Hour	Boosey&Hawkes	F.O.	×	"スコア、Trp1,3、Tubaなし"		
+P	002	プロコフィエフ	Prokofieff	交響曲第７番	Symphony No.7	Kalmus	F.O.	×	弦のみ有		
+P	003	プロコフィエフ	Prokofieff	ロミオとジュリエット第一組曲	Romeo and Juliet Suite No.1	Kalmus	F.O.	×	"Cl1、Timp1、Vn1,2、 Vaなし"		
+P	004	プロコフィエフ	Prokofieff	ロミオとジュリエット第二組曲	Romeo and Juliet Suite No.2	Kalmus	F.O.	×	"Cl1,2、Timp1、Vn1,2、なし"	日吉	
+P	005	プロコフィエフ	Prokofieff	ピーターと狼	Peter and the Wolf	Boosey&Hawkes	F.O.	×	スコア、Fl1なし		
+P	006	プロコフィエフ	Prokofieff	キージェ中尉	Lieutenant Kije	Broude Brothers	F.O.	○		日吉	
+P	007	プーランク	Poulenc	組曲「牝鹿」	Les Biches	Heugel	F.O.	○			
+R	001	ラフマニノフ	Rachmaninoff	ピアノ協奏曲第２番	Piano Concerto No.2	Broude Brothers	F.O.	×	スコア、Timp、独奏Pfなし		
+R	010	ラフマニノフ	Rachmaninoff	交響曲第２番	Symphony  No.2	Boosey&Hawkes	F.O.	○			
+R	002	ラヴェル	Ravel	ラ・ヴァルス	La Valse	Durand＆Cie	F.O.	×	"Ob1,2、Trp1,2、Vcなし"		
+R	003	ラヴェル	Ravel	高雅にして感傷的なワルツ	Valses Nobles et Sentimentales	Durand＆Cie	F.O.	×	"スコア、Vn1,2なし"		
+R	004	ラヴェル	Ravel	ダフニスとクロエ第二組曲	Daphnis et Chloe Suite No.2	Durand＆Cie	F.O.	×	Tubなし		
+R	005	ラヴェル	Ravel	古風なメヌエット	Menuet Antique	Enoch et Cie	F.O.	×	Vn1、Cbなし	日吉	高ワグに貸し出し中
+R	006	リムスキー・コルサコフ	Rimsky-Korsakov	シェヘラザード	Scheherazade Op.35	Kalmus	F.O.	×	Va、Cbなし		
+R	007	ロッシーニ	Rossini	アルジェのイタリア女	Die Italianerin in Algier	Breitkopf&Haertels	F.O.	×	"スコア、Ob1、Cl1,2、Fg1、Timp1,2、Vn1,2、Timpなし"		
+R	008	ロッシーニ	Rossini	セビリアの理髪師	Die Barber zu Sevilia		F.O.	×	スコアなし		
+R	009	ロッシーニ	Rossini	「どろぼうかささぎ」序曲	"Ouverture zur Oper ""Die diebische Elster"""	Breitkopf&Haertels	F.O.	×	スコア、Cbなし		
+R		ロッシーニ	Rossini	序曲「ウィリアム・テル」	"Overture ""Guillaume Tell"""	Breitkopf&Haertels	F.O.	○			
+R		ラヴェル	Ravel	ボレロ	Bolero		F.O.				
+R		リムスキー・コルサコフ	Rimsky-Korsakov	スペイン奇想曲	Capriccio Espagnol	Hampton Orchestra Library	F.O.	×	スコアなし		
+S	001	サン・サーンス	Saint-Saens	交響曲第３番	Symphony No.3	Durand＆Cie	F.O.	×	Vaなし		
+S	002	サン・サーンス	Saint-Saens	バイオリン協奏曲第３番	Violin Concerto No.3	Kalmus	F.O.	×	スコア、独奏Vn		
+S	003	サン・サーンス	Saint-Saens	アルジェリア組曲	Suite Algerienne	Durand＆Cie	F.O.	×	Kalmusと混合		
+S	004	ショスタコーヴィチ	Schostakowitsch	交響曲第５番	Symphony No.5	Kalmus	F.O.	○	Sikorski版と混合		
+S	005	ショスタコーヴィチ	Schostakowitsch	交響曲第９番	Symphony No.9	Breitkopf&Haertels	F.O.	×	Trb2、Trg、タンバリンなし		
+S	006	ショスタコーヴィチ	Schostakowitsch	交響曲第11番	Symphony No.11		F.O.	×	スコアなし	日吉	
+S	007	シューマン	Schumann	交響曲第2番	Symphony No.2	Breitkopf&Haertels	F.O.	×	Trb1〜3なし		
+S	008	シューマン	Schumann	交響曲第4番	Symphony No.4	Breitkopf&Haertels	F.O.	×	スコアのみ		
+S	009	シューマン	Schumann	ピアノ協奏曲	Piano Concerto	Breitkopf&Haertels	F.O.	×	"スコア、Vn1,2、Va、Vc、Cb"		
+S	010	シューベルト	Schubert	ミサ	Messe in Es	不明					
+S	011	シューベルト	Schubert	ロザムンデ序曲	Overture Rosamunde	不明					
+S	012	シベリウス	Sibelius	交響曲第１番	Symphony No.1	Breitkopf&Haertels	F.O.	×	スコアなし		
+S	013	シベリウス	Sibelius	交響曲第２番	Symphony No.2						
+S	014	シベリウス	Sibelius	交響曲第６番	Symphony No.6	Hansen	F.O.	×	Cbなし		
+S	015	シベリウス	Sibelius	バイオリン協奏曲	Violin Concerto	Kalmus	F.O.	×	スコア、Vn1、独奏Vn	日吉	
+S	019	シベリウス	Sibelius	フィンランディア	Finlandia	Breitkopf&Haertels	F.O.	○			
+S	016	スメタナ	Smetana	わが祖国より「モルダウ」	Moldau	Breitkopf&Haertels	F.O.	○			
+S	017	スーザ	Sousa	星条旗よ永遠なれ	The Stars and Stripes Forever	不明	F.O.	○			
+S	018	スーザ	Sousa	ワシントンポスト	The Washington Post March	Kalmus	F.O.	○			
+S	020	ヨハン・シュトラウス	J.Strauss	春の声	Fruhlingsstimmen	Breitkopf&Haertels	F.O.	○			
+S	021	ヨハン・シュトラウス	J.Strauss	「うわごと」ワルツ	Delirien-Walzer	Musikverlag Ludwig Krenn	F.O.	×	スコアなし		
+S	022	ヨハン・シュトラウス	J.Strauss	「こうもり」ワルツ	Die Fledermaus	Breitkopf&Haertels	F.O.	○			
+S	023	ヨハン・シュトラウス	J.Strauss	ウィーン気質	Vienna Blood	Boosey&Hawkes	F.O.	×	スコアなし		
+S	024	ヨハン・シュトラウス	J.Strauss	美しき青きドナウ	Blue Danube Waltz	Kalmus	F.O.	○			
+S	025	ヨハン・シュトラウス	J.Strauss	ピチカートポルカ	Pizzicato Polka	Kalmus	F.O.	×	Trp1、Vc、Cb		
+S	027	ヨハン・シュトラウス	J.Strauss	ラデツキー行進曲	Radetzky-March	不明	F.O.	○			
+S	031	ヨハン・シュトラウス	J.Strauss	皇帝円舞曲	Kaiserwalzer	Breitkopf&Haertels	F.O.	×	管なし		
+S	026	リヒャルト・シュトラウス	R.Strauss	死と変容	Tod und Verklarung	Peters	F.O.	×	Trp1〜3		
+S	028	スーク	Suk	メルヘン組曲	"Suite ""Ein Marchen"""	Simrock	F.O.	○			
+S	029	スッペ	Suppe	序曲「詩人と農夫」	Dichter und Bauer Ouverture	不明	F.O.	×	スコアなし		
+S	030	ストラヴィンスキー	Stravinsky	火の鳥1919版	L'Oiseau de feu(1919)	Schotts	F.O.	×	スコア、Ob2、EHなし		
+S	032	スミス	John Stafford Smith	アメリカ国歌	The Star-Spangled Banner	Schirmer	F.O.	×	スコアなし		
+S		スメタナ	Smetana	我が祖国より「シャールカ」			F.O.	○			
+S		スメタナ	Smetana	我が祖国より「ターボル」			F.O.	○			
+S		スメタナ	Smetana	我が祖国より「ブラニーク」			F.O.	×	"スコアp6-7,12-13なし"		
+S		スメタナ	Smetana	我が祖国より「ボヘミアの森と草原から」			F.O.	○			
+S		スメタナ	Smetana	我が祖国より「高い城」			F.O.	○			
+S		シベリウス	Sibelius	交響曲第７番	Symphony No.7		F.O.	○			
+S		ショスタコーヴィチ	Schostakowitsch	交響曲第7番	Symphony No.7		F.O.	○			
+S		シベリウス	Sibelius	「カレリア」組曲	"""Caleria"""		F.O.				
+S		シューマン	Schumann	序曲「マンフレッド」			F.O.				
+T	001	武満	Takemitsu	夢の時	Dreamtime	Schotts	F.O.	○			
+T	002	チャイコフスキー	Tschaikowsky	交響曲第４番	Symphony No.4	Breitkopf&Haertels	F.O.	×	スコア、Ob1なし		
+T	003	チャイコフスキー	Tschaikowsky	交響曲第５番	Symphony No.5	Breitkopf&Haertels	F.O.	×	Fl3なし		
+T	004	チャイコフスキー	Tschaikowsky	交響曲第６番	Symphony No.6	Breitkopf&Haertels	F.O.	×	Fl1なし		
+T	005	チャイコフスキー	Tschaikowsky	ピアノ協奏曲第１番	Piano Concerto No.1	Breitkopf&Haertels	F.O.	×	スコア、Timp、独奏Pfなし		
+T	006	チャイコフスキー	Tschaikowsky	ピアノ協奏曲第１番	Piano Concerto No.1	Kalmus	F.O.	×	スコア、独奏Pfなし		
+T	007	チャイコフスキー	Tschaikowsky	イタリア奇想曲	Capriccio Italien	Fischer	F.O.	×	スコアなし		
+T	008	チャイコフスキー	Tschaikowsky	スラブ行進曲	Marche Slave	Kalmus	F.O.	×	スコア、Ob1、Tubaなし		
+T	009	チャイコフスキー	Tschaikowsky	幻想序曲「ロミオとジュリエット」	"Fantasic Overture ""Romeo and Juliet"""	Kalmus	F.O.	○			
+T	010	チャイコフスキー	Tschaikowsky	「眠れる森の美女」組曲	Sleeping Beauty Suite	Kalmus	F.O.	○			
+T	011	チャイコフスキー	Tschaikowsky	バレエ組曲「白鳥の湖」No6〜8	"Ballet Suite ""The Swan Lake"" No6〜8"	Kalmus	F.O.	×	スコア、Trp3なし	日吉	
+T	012	チャイコフスキー	Tschaikowsky	バレエ組曲「くるみ割り人形」	"Ballet Suite""The Nutcracker"""	Breitkopf&Haertels	F.O.	○		日吉	
+V	001	ヴィヴァルディ	Vivaldi	四季より「春」	La Primavera	Ricordi	F.O.	○		日吉	
+V	002	ヴィヴァルディ	Vivaldi	四季より「冬」	L'Inverno	Peters	F.O.	○		日吉	
+V	003	ヴェルディ	Verdi	アイーダより「凱旋行進曲」	"Triumph March aus ""Aida"" "	Schotts	F.O.	○	スコアなし	日吉	
+V	004	ヴェルディ	Verdi	「椿姫」1、3前奏曲	La Traviata	Ricordi	F.O.	×	スコアなし	日吉	一部Kalmus（中身に違いはなし）
+V		ヴェルディ	Verdi	「シチリア島の夕べの祈り」序曲	"""I Verpri Siciliani"" Overture"		F.O.				
+W	001	ワーグナー	Wagner	タンホイザー	Tannhouser Marsch	Kalmus	F.O.	×	Fg1なし	日吉	
+W	002	ワーグナー	Wagner	ローエングリン第3幕	Einleitung zum 3.Akt aus Lohengrin	Breitkopf&Haertels	F.O.	×	スコアなし		
+W	003	ワーグナー	Wagner	さまよえるオランダ人	The Flying Dutchman	Breitkopf&Haertels	F.O.	×	"Picc、Fl1〜3、Ob1,2、EH、Cl1,2、BCl、CFg、Trp2,3、Tub、Cb、Timpなし"		
+W	004	ワーグナー	Wagner	楽劇「ジークフリート」より森のささやき		Kalmus	F.O.	×	Tubaなし		
+W	005	ワーグナー	Wagner	ジークフリート牧歌	Siegfried-Idyll	Breitkopf&Haertels	F.O.	×	スコアなし		
+W	006	ワーグナー	Wagner	ワルキューレの騎行(ワルキューレ?)	Die Walkure　(oder Walkuerenritt?)	Breitkopf&Haertels	F.O.	×	スコアなし		
+W	009	ワーグナー	Wagner	神々の黄昏	Goetterdaemmerung	Kalmus	F.O.	○			
+W	007	ウェーバー	Weber	「オベロン」序曲	"Ouverture zur Oper ""Oberon"""	Breitkopf&Haertels	F.O.	×	スコアなし		
+W	008	ウェーバー	Weber	舞踏への招待	Invitation to the Dance	Breitkopf&Haertels	F.O.	×	スコアなし		
+W		ワーグナー	Wagner	「ニュルンベルクのマイスタージンガー」第一幕への前奏曲	"Vorspiel zur Oper ""Die Meistersinger von Nuernberg"""	Breitkopf&Haertels	F.O.	○			
+W		ウェーバー	Weber	「オイリアンテ」序曲	"Vorspiel zur ""Euryanthe"""		F.O.				
+W		ワーグナー	Wagner	ラインの黄金	Das Rheingold		F.O.				
+W		ワーグナー	Wagner	序曲「リエンツィ」	"Ouverture ""Rienzi, der letzte der Tribunen"""	Kalmus	F.O.				
+あ	001	芥川也寸志	Akutagawa	ワグネルソサィエティー祝典曲		手書き	F.O.	○			
+お	001	織田哲郎	Oda	おどるポンポコリン		NAOS	F.O.	○			
+だ	001	団伊久磨	Dan	慶応義塾百周年祝典曲		手書き	F.O.	×	スコアなし		
+											
+
+S	001	齊藤鷹規	Saito		弦楽四重奏

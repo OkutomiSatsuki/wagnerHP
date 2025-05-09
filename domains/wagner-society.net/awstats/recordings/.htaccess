@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.recordings.wagner-society.net$ [NC]
+RewriteRule ^(.*)$ http://recordings.wagner-society.net/awstats/$1 [R=301,L]
